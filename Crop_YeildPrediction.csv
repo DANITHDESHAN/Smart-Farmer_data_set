@@ -1,0 +1,2356 @@
+district,Crop,Crop_Year,Season,Area ,Crop_Yeild
+Colombo,rice,2014,yala,4.4,57
+Colombo,rice,2014,maha,2.5,48
+Colombo,rice,2015,yala,1.5,32
+Colombo,rice,2015,maha,1,28
+Colombo,rice,2016,yala,1.2,42
+Colombo,rice,2016,maha,1.3,31
+Colombo,rice,2017,yala,2.5,36
+Colombo,rice,2017,maha,3,33
+Colombo,rice,2018,yala,1.8,51
+Colombo,rice,2018,maha,1.2,48
+Colombo,rice,2019,yala,2.5,46
+Colombo,rice,2019,maha,2.4,38
+Colombo,rice,2020,yala,3.1,36
+Colombo,rice,2020,maha,1,28
+Colombo,rice,2021,yala,2.1,41
+Colombo,rice,2021,maha,3.5,34
+Colombo,rice,2022,yala,2.6,35
+Colombo,rice,2022,maha,2.4,21.5
+gampaha,rice,2013,yala,1.5,47.45
+gampaha,rice,2013,maha,1.9,38.4
+gampaha,rice,2014,yala,2.4,42.35
+gampaha,rice,2014,maha,2.5,36.1
+gampaha,rice,2015,yala,3,46.17
+gampaha,rice,2015,maha,2,38.7
+gampaha,rice,2016,yala,4,36.96
+gampaha,rice,2016,maha,1.5,34
+gampaha,rice,2017,yala,1,20.03
+gampaha,rice,2017,maha,1.25,20
+gampaha,rice,2018,yala,1.5,53.75
+gampaha,rice,2018,maha,1.25,47.2
+gampaha,rice,2019,yala,2,45.1
+gampaha,rice,2019,maha,1.5,44
+gampaha,rice,2020,yala,2.4,36
+gampaha,rice,2020,maha,2.5,34
+gampaha,rice,2021,yala,1.5,42.5
+gampaha,rice,2021,maha,1.8,38.12
+gampaha,rice,2022,yala,2.5,38
+gampaha,rice,2022,maha,2,36.5
+kalutara,rice,2013,yala,4,55.07
+kalutara,rice,2013,maha,3.5,54.12
+kalutara,rice,2014,yala,2.5,50.39
+kalutara,rice,2014,maha,1.2,48.25
+kalutara,rice,2015,yala,1,68.66
+kalutara,rice,2015,maha,2.5,61.2
+kalutara,rice,2016,yala,3.5,43.9
+kalutara,rice,2016,maha,3.6,40.1
+kalutara,rice,2017,yala,4.5,45.82
+kalutara,rice,2017,maha,1.5,44.1
+kalutara,rice,2018,yala,2.5,51.2
+kalutara,rice,2018,maha,2.4,49.8
+kalutara,rice,2019,yala,3,55
+kalutara,rice,2019,maha,4.5,49.6
+kalutara,rice,2020,yala,2.5,60.1
+kalutara,rice,2020,maha,1.8,60.02
+kalutara,rice,2021,yala,1.2,54.25
+kalutara,rice,2021,maha,1.5,53.2
+kalutara,rice,2022,yala,1,48.1
+kalutara,rice,2022,maha,2.5,47
+kandy,rice,2013,yala,1.5,62.54
+kandy,rice,2013,maha,1.2,61.2
+kandy,rice,2014,yala,2.5,62.67
+kandy,rice,2014,maha,1.5,61.2
+kandy,rice,2015,yala,2.4,64.75
+kandy,rice,2015,maha,2.6,61.3
+kandy,rice,2016,yala,3,56.02
+kandy,rice,2016,maha,4.5,54
+kandy,rice,2017,yala,2.5,49.19
+kandy,rice,2017,maha,2.4,47.25
+kandy,rice,2018,yala,3.5,57
+kandy,rice,2018,maha,3.2,56.2
+kandy,rice,2019,yala,1.5,61.02
+kandy,rice,2019,maha,4.5,59.2
+kandy,rice,2020,yala,3,57.5
+kandy,rice,2020,maha,2.5,51
+kandy,rice,2021,yala,1.5,47.2
+kandy,rice,2021,maha,1.6,41
+kandy,rice,2022,yala,1.4,36.5
+kandy,rice,2022,maha,1.2,31
+matale,rice,2013,yala,4,38.58
+matale,rice,2013,maha,2.5,83.208
+matale,rice,2014,yala,4.5,23.59
+matale,rice,2014,maha,2.5,60.79
+matale,rice,2015,yala,1.2,38.36
+matale,rice,2015,maha,1.5,82.76
+matale,rice,2016,yala,2.5,32.59
+matale,rice,2016,maha,3.5,79.115
+matale,rice,2017,yala,4.5,19.76
+matale,rice,2017,maha,2.5,32.73
+matale,rice,2018,yala,5,36.5
+matale,rice,2018,maha,4.5,68.5
+matale,rice,2019,yala,2,28.5
+matale,rice,2019,maha,1.5,51.4
+matale,rice,2020,yala,1.6,35.2
+matale,rice,2020,maha,1.4,51.2
+matale,rice,2021,yala,2.5,36.2
+matale,rice,2021,maha,3.2,48.5
+matale,rice,2022,yala,3.5,45.2
+matale,rice,2022,maha,4,43
+galle,rice,2013,yala,5,54.5
+galle,rice,2013,maha,6.5,47.44
+galle,rice,2014,yala,6,28.5
+galle,rice,2014,maha,7,46.25
+galle,rice,2015,yala,8,24.5
+galle,rice,2015,maha,5,48.94
+galle,rice,2016,yala,4,15.8
+galle,rice,2016,maha,10,26.38
+galle,rice,2017,yala,15,20.5
+galle,rice,2017,maha,5,31.71
+galle,rice,2018,yala,4,19.5
+galle,rice,2018,maha,2.5,25.6
+galle,rice,2019,yala,4.5,36.8
+galle,rice,2019,maha,5.5,48
+galle,rice,2020,yala,6.5,38.5
+galle,rice,2020,maha,4.5,50
+galle,rice,2021,yala,2.5,25.5
+galle,rice,2021,maha,1.5,32.5
+galle,rice,2022,yala,4,25.1
+galle,rice,2022,maha,5,32.1
+matara,rice,2013,yala,10,61.2
+matara,rice,2013,maha,12,85.2
+matara,rice,2014,yala,10.5,57.4
+matara,rice,2014,maha,8.5,61.4
+matara,rice,2015,yala,4.5,60.1
+matara,rice,2015,maha,2.5,62.1
+matara,rice,2016,yala,12,48.9
+matara,rice,2016,maha,10.2,57.4
+matara,rice,2017,yala,8,65.2
+matara,rice,2017,maha,7.5,74.1
+matara,rice,2018,yala,5,69.5
+matara,rice,2018,maha,4.5,78.5
+matara,rice,2019,yala,2.5,65.2
+matara,rice,2019,maha,7.5,57.4
+matara,rice,2020,yala,2.5,48.5
+matara,rice,2020,maha,8,35.6
+matara,rice,2021,yala,7.5,42.5
+matara,rice,2021,maha,14,57.4
+matara,rice,2022,yala,12.5,31.4
+matara,rice,2022,maha,6.5,28.5
+hambantota,rice,2013,yala,7.5,112.62
+hambantota,rice,2013,maha,15,278.07
+hambantota,rice,2014,yala,14,83.45
+hambantota,rice,2014,maha,12,213
+hambantota,rice,2015,yala,10,118.19
+hambantota,rice,2015,maha,8,262.87
+hambantota,rice,2016,yala,5.5,101.26
+hambantota,rice,2016,maha,7.5,229.69
+hambantota,rice,2017,yala,12,97.05
+hambantota,rice,2017,maha,15,196.87
+hambantota,rice,2018,yala,20,96.5
+hambantota,rice,2018,maha,18,195.62
+hambantota,rice,2019,yala,16.5,101.04
+hambantota,rice,2019,maha,10,170.45
+hambantota,rice,2020,yala,12,95.6
+hambantota,rice,2020,maha,5,162.5
+hambantota,rice,2021,yala,4.5,97.4
+hambantota,rice,2021,maha,8,145.2
+hambantota,rice,2022,yala,12.5,90.4
+hambantota,rice,2022,maha,14,139.5
+jaffna,rice,2013,yala,16,41.26
+jaffna,rice,2013,maha,10,83.5
+jaffna,rice,2014,yala,5.5,36.5
+jaffna,rice,2014,maha,8.5,31.5
+jaffna,rice,2015,yala,12,36.5
+jaffna,rice,2015,maha,15,34.5
+jaffna,rice,2016,yala,16,40.1
+jaffna,rice,2016,maha,20,40
+jaffna,rice,2017,yala,4.5,57.4
+jaffna,rice,2017,maha,5,51
+jaffna,rice,2018,yala,2.5,45.2
+jaffna,rice,2018,maha,5.5,42.1
+jaffna,rice,2019,yala,4.5,38.5
+jaffna,rice,2019,maha,2.5,31.2
+jaffna,rice,2020,yala,1.5,45.6
+jaffna,rice,2020,maha,2.5,41.2
+jaffna,rice,2021,yala,4,56.2
+jaffna,rice,2021,maha,5,52.1
+jaffna,rice,2022,yala,8,41.2
+jaffna,rice,2022,maha,6,45
+kilinochchi,rice,2013,yala,4.5,38.5
+kilinochchi,rice,2013,maha,2.5,32
+kilinochchi,rice,2014,yala,5,71.4
+kilinochchi,rice,2014,maha,7,83.2
+kilinochchi,rice,2015,yala,5.5,62.5
+kilinochchi,rice,2015,maha,6.5,74.1
+kilinochchi,rice,2016,yala,8,81.2
+kilinochchi,rice,2016,maha,10,92.5
+kilinochchi,rice,2017,yala,12,76.4
+kilinochchi,rice,2017,maha,8,83.2
+kilinochchi,rice,2018,yala,5.5,74.1
+kilinochchi,rice,2018,maha,6,79.2
+kilinochchi,rice,2019,yala,4.5,81.2
+kilinochchi,rice,2019,maha,2.5,75.2
+kilinochchi,rice,2020,yala,2.5,85.2
+kilinochchi,rice,2020,maha,4.5,62.5
+kilinochchi,rice,2021,yala,5,78.5
+kilinochchi,rice,2021,maha,10,59.2
+kilinochchi,rice,2022,yala,7,78.52
+kilinochchi,rice,2022,maha,5,81.2
+mannar,rice,2013,yala,6.5,78.5
+mannar,rice,2013,maha,12,65.2
+mannar,rice,2014,yala,10,57.4
+mannar,rice,2014,maha,8.5,54.5
+mannar,rice,2015,yala,7.5,45.2
+mannar,rice,2015,maha,10,52.4
+mannar,rice,2016,yala,12,62.5
+mannar,rice,2016,maha,6.5,54.1
+mannar,rice,2017,yala,5.5,45.2
+mannar,rice,2017,maha,6,54.1
+mullaitivu,rice,2013,yala,6,45.2
+mullaitivu,rice,2013,maha,5,42.1
+mullaitivu,rice,2014,yala,4.5,51.2
+mullaitivu,rice,2014,maha,5,55
+mullaitivu,rice,2015,yala,6,54.2
+mullaitivu,rice,2015,maha,4.5,45.2
+mullaitivu,rice,2016,yala,3.5,48.5
+mullaitivu,rice,2016,maha,2.5,47
+mullaitivu,rice,2017,yala,1.5,62.5
+mullaitivu,rice,2017,maha,5,54.1
+vavuniya,rice,2013,yala,10,62.5
+vavuniya,rice,2013,maha,12,64.5
+vavuniya,rice,2014,yala,8,63.2
+vavuniya,rice,2014,maha,5.5,74.1
+vavuniya,rice,2015,yala,6,75.4
+vavuniya,rice,2015,maha,7.5,69.5
+vavuniya,rice,2016,yala,5,55.8
+vavuniya,rice,2016,maha,4.5,62.5
+vavuniya,rice,2017,yala,8,62.5
+vavuniya,rice,2017,maha,10,58.4
+trincomalee,rice,2013,yala,4,95.6
+trincomalee,rice,2013,maha,5,96.5
+trincomalee,rice,2014,yala,4.5,85.6
+trincomalee,rice,2014,maha,5,84.2
+trincomalee,rice,2015,yala,2.5,90.2
+trincomalee,rice,2015,maha,6,87.5
+trincomalee,rice,2016,yala,7.5,92.5
+trincomalee,rice,2016,maha,5.5,91.2
+trincomalee,rice,2017,yala,6.5,90.5
+trincomalee,rice,2017,maha,4.5,94.5
+batticaloa,rice,2013,yala,12,74.5
+batticaloa,rice,2013,maha,6,71.4
+batticaloa,rice,2014,yala,5,69.5
+batticaloa,rice,2014,maha,4.5,74.8
+batticaloa,rice,2015,yala,7.5,52.4
+batticaloa,rice,2015,maha,5.2,71.2
+batticaloa,rice,2016,yala,10,68.5
+batticaloa,rice,2016,maha,2.5,74.1
+batticaloa,rice,2017,yala,8,69.3
+batticaloa,rice,2017,maha,10,78.5
+batticaloa,rice,2018,yala,12,85.4
+batticaloa,rice,2018,maha,6.5,90.2
+batticaloa,rice,2019,yala,5.5,65.2
+batticaloa,rice,2019,maha,7.4,74.1
+ampara,rice,2013,yala,10,74.5
+ampara,rice,2013,maha,12,82.5
+ampara,rice,2014,yala,8,76.3
+ampara,rice,2014,maha,7.5,85.4
+ampara,rice,2015,yala,10,63.5
+ampara,rice,2015,maha,12,54.2
+ampara,rice,2016,yala,4.5,48.5
+ampara,rice,2016,maha,5.5,57.4
+ampara,rice,2017,yala,14,62.4
+ampara,rice,2017,maha,12,78.5
+ampara,rice,2018,yala,8.5,85.2
+ampara,rice,2018,maha,6.5,98.4
+ampara,rice,2019,yala,4.5,62.5
+ampara,rice,2019,maha,6,54
+ampara,rice,2020,yala,8,84.5
+ampara,rice,2020,maha,10,87.4
+ampara,rice,2021,yala,12,85.4
+ampara,rice,2021,maha,8.5,86.5
+kurunegala,rice,2013,yala,10,94.5
+kurunegala,rice,2013,maha,12,98.5
+kurunegala,rice,2014,yala,8,87.5
+kurunegala,rice,2014,maha,8.5,90.2
+kurunegala,rice,2015,yala,15,89.6
+kurunegala,rice,2015,maha,10,92.5
+kurunegala,rice,2016,yala,5.5,79.5
+kurunegala,rice,2016,maha,8,85.4
+kurunegala,rice,2017,yala,6.5,90.2
+kurunegala,rice,2017,maha,8,92.5
+kurunegala,rice,2018,yala,8.5,84.7
+kurunegala,rice,2018,maha,7.5,89.5
+puttalam,rice,2013,yala,4.5,39.6
+puttalam,rice,2013,maha,5.5,41.2
+puttalam,rice,2014,yala,2.5,28.5
+puttalam,rice,2014,maha,4.6,36.5
+puttalam,rice,2015,yala,5,32.1
+puttalam,rice,2015,maha,1.2,36.5
+puttalam,rice,2016,yala,2.5,31.5
+puttalam,rice,2022,maha,5,40.1
+anuradhapura,rice,2013,yala,10,92.5
+anuradhapura,rice,2013,maha,12,98.5
+anuradhapura,rice,2014,yala,14,94.1
+anuradhapura,rice,2014,maha,13,99.2
+anuradhapura,rice,2015,yala,15,89.5
+anuradhapura,rice,2015,maha,14,92.1
+anuradhapura,rice,2016,yala,12,95
+anuradhapura,rice,2016,maha,10,96.1
+anuradhapura,rice,2017,yala,8,97.5
+anuradhapura,rice,2017,maha,5.5,96.1
+anuradhapura,rice,2018,yala,7,98.5
+anuradhapura,rice,2018,maha,8,97.4
+anuradhapura,rice,2019,yala,15,96.3
+anuradhapura,rice,2019,maha,14,94.5
+anuradhapura,rice,2020,yala,16,96.3
+anuradhapura,rice,2020,maha,20,98.5
+anuradhapura,rice,2021,yala,15,99.01
+anuradhapura,rice,2021,maha,16,97.4
+anuradhapura,rice,2022,yala,14,89.5
+anuradhapura,rice,2022,maha,20,96.3
+polonnaruwa,rice,2013,yala,17,96.1
+polonnaruwa,rice,2013,maha,18,97.4
+polonnaruwa,rice,2014,yala,4.5,98.5
+polonnaruwa,rice,2014,maha,12,99.6
+polonnaruwa,rice,2015,yala,20,97.5
+polonnaruwa,rice,2015,maha,15,96.5
+polonnaruwa,rice,2016,yala,14,95.4
+polonnaruwa,rice,2016,maha,16,98
+polonnaruwa,rice,2017,yala,20,96.5
+polonnaruwa,rice,2017,maha,14,97
+polonnaruwa,rice,2018,yala,20,98.5
+polonnaruwa,rice,2018,maha,14,97.5
+polonnaruwa,rice,2019,yala,15,96.5
+polonnaruwa,rice,2019,maha,16,97.4
+polonnaruwa,rice,2020,yala,14,96.3
+polonnaruwa,rice,2020,maha,12,95.1
+polonnaruwa,rice,2021,yala,10,94.1
+polonnaruwa,rice,2021,maha,8,96.1
+polonnaruwa,rice,2022,yala,12,98.1
+polonnaruwa,rice,2022,maha,14,97.6
+Colombo,corn,2013,whole year,0.1,2
+Colombo,corn,2013,whole year,0.5,1.5
+Colombo,corn,2014,whole year,0.25,1.6
+Colombo,corn,2014,whole year,0.5,2.5
+gampaha,corn,2013,whole year,0.1,1.5
+gampaha,corn,2013,whole year,0.2,1
+gampaha,corn,2014,whole year,0.15,1.4
+gampaha,corn,2014,whole year,0.1,1.3
+kalutara,corn,2013,whole year,1,2.5
+kalutara,corn,2014,whole year,1.5,4.5
+kalutara,corn,2015,whole year,2,10
+kalutara,corn,2016,whole year,1.2,3.5
+kalutara,corn,2017,whole year,2.5,3.4
+kalutara,corn,2015,whole year,0.1,4.5
+kalutara,corn,2016,whole year,2,4.1
+kalutara,corn,2016,whole year,1.5,3.2
+galle,corn,2013,whole year,2.5,10
+galle,corn,2013,whole year,4.5,12
+galle,corn,2014,whole year,2,14
+galle,corn,2014,whole year,3,15.2
+galle,corn,2015,whole year,4,18
+galle,corn,2016,whole year,5,21
+galle,corn,2017,whole year,4.5,12.5
+galle,corn,2018,whole year,2.5,14
+galle,corn,2019,whole year,3.5,15
+galle,corn,2020,whole year,2.5,13.5
+galle,corn,2021,whole year,3,10
+matara,corn,2013,whole year,5,25
+matara,corn,2013,whole year,4.5,24
+matara,corn,2014,whole year,3.5,32
+matara,corn,2015,whole year,2.5,31
+Monaragala,corn,2013,whole year,5.5,85
+Monaragala,corn,2014,whole year,6,90
+Monaragala,corn,2014,whole year,7.5,96
+Monaragala,corn,2015,whole year,8,98
+Monaragala,corn,2015,whole year,7.5,97
+Monaragala,corn,2016,whole year,5.5,89
+Monaragala,corn,2017,whole year,10,87
+Monaragala,corn,2018,whole year,8,84
+Monaragala,corn,2019,whole year,5.5,87
+Monaragala,corn,2020,whole year,6.5,90
+Monaragala,corn,2020,whole year,5.5,87
+Monaragala,corn,2021,whole year,7.5,88
+Monaragala,corn,2021,whole year,8.5,86
+Monaragala,corn,2022,whole year,7.5,85
+hambantota,corn,2013,whole year,6.5,70
+hambantota,corn,2013,whole year,7.5,74
+hambantota,corn,2014,whole year,5,75
+hambantota,corn,2014,whole year,6.5,78
+hambantota,corn,2015,whole year,4,80
+hambantota,corn,2015,whole year,6,85
+hambantota,corn,2016,whole year,5,87
+hambantota,corn,2016,whole year,4,90
+hambantota,corn,2017,whole year,4.5,88
+hambantota,corn,2017,whole year,2.5,89
+hambantota,corn,2018,whole year,5,90
+hambantota,corn,2018,whole year,6,92
+hambantota,corn,2019,whole year,5,98
+hambantota,corn,2019,whole year,5.5,97
+hambantota,corn,2020,whole year,4,86
+hambantota,corn,2020,whole year,2.5,87
+hambantota,corn,2021,whole year,5,85
+hambantota,corn,2021,whole year,4,86
+hambantota,corn,2022,whole year,2.5,89
+hambantota,corn,2022,whole year,3,90
+jaffna,corn,2013,whole year,0.5,12
+jaffna,corn,2014,whole year,1,10
+jaffna,corn,2015,whole year,1.5,14
+jaffna,corn,2016,whole year,1,16
+mannar,corn,2013,whole year,0.5,15
+mannar,corn,2014,whole year,0.5,12.5
+mannar,corn,2015,whole year,1,10
+mannar,corn,2016,whole year,0.25,18
+mannar,corn,2017,whole year,0.25,16
+mannar,corn,2018,whole year,0.5,18.5
+trincomalee,corn,2022,whole year,0.5,2
+trincomalee,corn,2022,whole year,0.25,1.5
+batticaloa,corn,2013,whole year,5,60
+batticaloa,corn,2013,whole year,4,55
+batticaloa,corn,2014,whole year,6,75
+batticaloa,corn,2014,whole year,4.5,63
+batticaloa,corn,2015,whole year,5,58
+batticaloa,corn,2015,whole year,2.5,70
+batticaloa,corn,2016,whole year,3.5,80
+batticaloa,corn,2016,whole year,3,75
+batticaloa,corn,2017,whole year,2.5,65
+batticaloa,corn,2017,whole year,4.5,75
+batticaloa,corn,2018,whole year,5,74
+batticaloa,corn,2018,whole year,2.5,80
+batticaloa,corn,2019,whole year,4.5,56
+batticaloa,corn,2019,whole year,5,74
+batticaloa,corn,2020,whole year,5,54
+batticaloa,corn,2020,whole year,4.5,50
+batticaloa,corn,2021,whole year,3.5,45
+batticaloa,corn,2021,whole year,2.5,56
+batticaloa,corn,2022,whole year,1.5,60
+batticaloa,corn,2022,whole year,4.5,74
+ampara,corn,2013,whole year,4,62
+ampara,corn,2013,whole year,5,74
+ampara,corn,2014,whole year,6,80
+ampara,corn,2014,whole year,5.5,74
+ampara,corn,2015,whole year,5,75
+ampara,corn,2015,whole year,4.5,78
+ampara,corn,2016,whole year,6,79.5
+ampara,corn,2016,whole year,5.5,80
+ampara,corn,2017,whole year,4.5,81
+ampara,corn,2017,whole year,2.5,74
+ampara,corn,2018,whole year,2.5,85
+ampara,corn,2018,whole year,4.5,74
+ampara,corn,2019,whole year,4,76
+ampara,corn,2019,whole year,5,78
+ampara,corn,2020,whole year,5,74
+ampara,corn,2020,whole year,5.5,75
+ampara,corn,2021,whole year,6,79
+ampara,corn,2021,whole year,5.4,80
+ampara,corn,2022,whole year,4,72
+ampara,corn,2022,whole year,4.5,74
+kurunegala,corn,2013,whole year,0.5,2.6
+kurunegala,corn,2014,whole year,0.2,1.5
+kurunegala,corn,2015,whole year,0.25,2.5
+puttalam,corn,2013,whole year,1,20
+puttalam,corn,2013,whole year,1.5,25
+puttalam,corn,2014,whole year,1.2,26
+puttalam,corn,2014,whole year,1.5,27
+anuradhapura,corn,2013,whole year,5,75
+anuradhapura,corn,2013,whole year,6,85
+anuradhapura,corn,2014,whole year,7.5,90
+anuradhapura,corn,2014,whole year,4.5,92
+anuradhapura,corn,2015,whole year,5.5,96
+anuradhapura,corn,2015,whole year,2.5,98
+anuradhapura,corn,2016,whole year,5.5,99
+anuradhapura,corn,2016,whole year,6,91
+anuradhapura,corn,2017,whole year,4.5,86
+anuradhapura,corn,2017,whole year,10,85
+anuradhapura,corn,2018,whole year,15,89
+anuradhapura,corn,2018,whole year,12,78
+anuradhapura,corn,2019,whole year,8,91
+anuradhapura,corn,2019,whole year,5,92
+anuradhapura,corn,2020,whole year,5.5,93
+anuradhapura,corn,2020,whole year,4.5,98
+anuradhapura,corn,2021,whole year,6,99
+anuradhapura,corn,2021,whole year,7.5,96
+anuradhapura,corn,2022,whole year,8,95
+anuradhapura,corn,2022,whole year,5.6,97
+polonnaruwa,corn,2013,whole year,7.5,96
+polonnaruwa,corn,2014,whole year,8,95
+polonnaruwa,corn,2015,whole year,5,98
+polonnaruwa,corn,2015,whole year,5.5,98
+polonnaruwa,corn,2016,whole year,8.5,97.5
+polonnaruwa,corn,2017,whole year,10,98
+polonnaruwa,corn,2018,whole year,5,89.5
+polonnaruwa,corn,2019,whole year,5.5,74.5
+polonnaruwa,corn,2020,whole year,4.5,75
+polonnaruwa,corn,2021,whole year,2.5,76
+polonnaruwa,corn,2022,whole year,4.5,78
+polonnaruwa,corn,2018,whole year,2.5,79
+polonnaruwa,corn,2019,whole year,4.5,73
+polonnaruwa,corn,2019,whole year,2.5,69
+polonnaruwa,corn,2020,whole year,2.5,76
+polonnaruwa,corn,2020,whole year,3,78
+polonnaruwa,corn,2021,whole year,3.5,74
+polonnaruwa,corn,2021,whole year,2.5,75
+polonnaruwa,corn,2022,whole year,2.5,69
+polonnaruwa,corn,2022,whole year,1.5,62
+badulla,corn,2017,whole year,5,70
+badulla,corn,2017,whole year,5.5,65
+badulla,corn,2018,whole year,6,74
+badulla,corn,2018,whole year,5.4,72
+badulla,corn,2019,whole year,5.5,68.5
+badulla,corn,2019,whole year,4.5,74
+badulla,corn,2020,whole year,2.5,75
+badulla,corn,2020,whole year,2.5,78
+badulla,corn,2021,whole year,5,79
+badulla,corn,2021,whole year,4.5,80
+badulla,corn,2022,whole year,2.5,82
+badulla,corn,2022,whole year,1.5,75
+ratnapura,corn,2022,whole year,0.5,45
+Colombo,cinnamon,2013,whole year,0.5,35
+Colombo,cinnamon,2014,whole year,1.2,34
+Colombo,cinnamon,2015,whole year,1,25
+Colombo,cinnamon,2016,whole year,0.5,18
+Colombo,cinnamon,2017,whole year,0.5,20
+gampaha,cinnamon,2013,whole year,5,85
+gampaha,cinnamon,2013,whole year,4.5,87
+gampaha,cinnamon,2014,whole year,6,84
+gampaha,cinnamon,2014,whole year,4,86
+gampaha,cinnamon,2015,whole year,4.5,82
+gampaha,cinnamon,2015,whole year,5,81
+gampaha,cinnamon,2016,whole year,5.5,78
+gampaha,cinnamon,2016,whole year,3.5,79
+gampaha,cinnamon,2017,whole year,2.5,80
+gampaha,cinnamon,2017,whole year,5,82
+gampaha,cinnamon,2018,whole year,2.5,83
+gampaha,cinnamon,2018,whole year,4,84
+gampaha,cinnamon,2019,whole year,5,85
+gampaha,cinnamon,2019,whole year,2.5,86
+gampaha,cinnamon,2020,whole year,1.5,84
+gampaha,cinnamon,2020,whole year,1,89
+gampaha,cinnamon,2021,whole year,4.5,81
+gampaha,cinnamon,2021,whole year,7.5,82
+gampaha,cinnamon,2022,whole year,6.5,80
+gampaha,cinnamon,2022,whole year,5.5,84
+kalutara,cinnamon,2013,whole year,0.5,74
+kalutara,cinnamon,2013,whole year,0.5,75
+kalutara,cinnamon,2014,whole year,2.5,89
+kalutara,cinnamon,2014,whole year,5,90
+kalutara,cinnamon,2015,whole year,5.5,91
+kalutara,cinnamon,2015,whole year,2.5,92
+kalutara,cinnamon,2016,whole year,7,86
+kalutara,cinnamon,2016,whole year,6,87
+kalutara,cinnamon,2017,whole year,4.5,84
+kalutara,cinnamon,2017,whole year,5.5,85
+kalutara,cinnamon,2018,whole year,5.5,89
+kalutara,cinnamon,2018,whole year,6.5,87
+kalutara,cinnamon,2019,whole year,6,81
+kalutara,cinnamon,2019,whole year,4.5,85
+kalutara,cinnamon,2020,whole year,2.5,84
+kalutara,cinnamon,2020,whole year,2.5,83
+kalutara,cinnamon,2021,whole year,4,87
+kalutara,cinnamon,2021,whole year,5,90
+kalutara,cinnamon,2022,whole year,3.5,88
+kalutara,cinnamon,2022,whole year,7,86
+kandy,cinnamon,2013,whole year,0.1,10
+kandy,cinnamon,2013,whole year,0.25,7.5
+nuwaraEliya,cinnamon,2015,whole year,0.25,0
+nuwaraEliya,cinnamon,2016,whole year,0.1,0.1
+nuwaraEliya,cinnamon,2016,whole year,0.1,0
+galle,cinnamon,2013,whole year,5,90
+galle,cinnamon,2013,whole year,5.5,89
+galle,cinnamon,2014,whole year,7,88
+galle,cinnamon,2014,whole year,10,89
+galle,cinnamon,2015,whole year,8,91
+galle,cinnamon,2015,whole year,5.5,90
+galle,cinnamon,2016,whole year,6,98
+galle,cinnamon,2016,whole year,4.5,92
+galle,cinnamon,2017,whole year,5.5,91
+galle,cinnamon,2017,whole year,8,98
+galle,cinnamon,2018,whole year,7.5,89
+galle,cinnamon,2018,whole year,6,85
+galle,cinnamon,2019,whole year,5.5,78
+galle,cinnamon,2019,whole year,4.5,86
+galle,cinnamon,2020,whole year,2.5,91
+galle,cinnamon,2020,whole year,1.5,92
+galle,cinnamon,2021,whole year,1,94
+galle,cinnamon,2021,whole year,2.5,86
+galle,cinnamon,2022,whole year,4,81
+galle,cinnamon,2022,whole year,5.5,87
+matara,cinnamon,2013,whole year,10,83
+matara,cinnamon,2013,whole year,12,86
+matara,cinnamon,2014,whole year,15,88
+matara,cinnamon,2014,whole year,4,89
+matara,cinnamon,2015,whole year,4.5,86
+matara,cinnamon,2015,whole year,10,90
+matara,cinnamon,2016,whole year,12,91
+matara,cinnamon,2016,whole year,15,96
+matara,cinnamon,2017,whole year,4.5,91
+matara,cinnamon,2017,whole year,5.5,98
+matara,cinnamon,2018,whole year,6,80
+matara,cinnamon,2018,whole year,8,82
+matara,cinnamon,2019,whole year,5.5,81
+matara,cinnamon,2019,whole year,2.5,84
+matara,cinnamon,2020,whole year,2,85
+matara,cinnamon,2020,whole year,1.5,86
+matara,cinnamon,2021,whole year,2.5,89
+matara,cinnamon,2021,whole year,2.5,87
+matara,cinnamon,2022,whole year,5,90
+matara,cinnamon,2022,whole year,6.5,91
+ratnapura,cinnamon,2013,whole year,5,90
+ratnapura,cinnamon,2013,whole year,5.5,89
+ratnapura,cinnamon,2014,whole year,4.5,87
+ratnapura,cinnamon,2014,whole year,5,88
+ratnapura,cinnamon,2015,whole year,8,86
+ratnapura,cinnamon,2015,whole year,10,84
+ratnapura,cinnamon,2016,whole year,12,85
+ratnapura,cinnamon,2016,whole year,8,81
+ratnapura,cinnamon,2017,whole year,6,90
+ratnapura,cinnamon,2017,whole year,7,92
+ratnapura,cinnamon,2018,whole year,5.5,86
+ratnapura,cinnamon,2018,whole year,7.5,88
+ratnapura,cinnamon,2019,whole year,10,89
+ratnapura,cinnamon,2019,whole year,5,81
+ratnapura,cinnamon,2020,whole year,4.5,85
+ratnapura,cinnamon,2020,whole year,5,84
+ratnapura,cinnamon,2021,whole year,6,87
+ratnapura,cinnamon,2021,whole year,6.5,86
+ratnapura,cinnamon,2022,whole year,7,85
+ratnapura,cinnamon,2022,whole year,7.5,82
+Colombo,pepper,2013,whole year,1,10
+Colombo,pepper,2013,whole year,1,8.5
+Colombo,pepper,2014,whole year,1.2,15
+gampaha,pepper,2021,whole year,0.5,2
+gampaha,pepper,2021,whole year,0.5,2.5
+gampaha,pepper,2022,whole year,0.25,5
+gampaha,pepper,2022,whole year,0.25,4.5
+kandy,pepper,2013,whole year,5,78
+kandy,pepper,2013,whole year,5.5,81
+kandy,pepper,2014,whole year,6,85
+kandy,pepper,2014,whole year,7.5,86
+kandy,pepper,2015,whole year,6,90
+kandy,pepper,2015,whole year,4.5,91
+kandy,pepper,2016,whole year,7,89
+kandy,pepper,2016,whole year,8,90
+kandy,pepper,2017,whole year,6,92
+kandy,pepper,2017,whole year,10,96
+kandy,pepper,2018,whole year,8,87
+kandy,pepper,2018,whole year,5.5,84
+kandy,pepper,2019,whole year,4.5,85
+kandy,pepper,2019,whole year,6,81
+kandy,pepper,2020,whole year,5,82
+kandy,pepper,2020,whole year,4.5,83
+kandy,pepper,2021,whole year,3,84
+kandy,pepper,2021,whole year,3.5,86
+kandy,pepper,2022,whole year,3,88
+kandy,pepper,2022,whole year,2.5,89
+matale,pepper,2013,whole year,2,87
+matale,pepper,2013,whole year,1.5,90
+matale,pepper,2014,whole year,4.5,96
+matale,pepper,2014,whole year,5,94
+matale,pepper,2015,whole year,5.5,91
+matale,pepper,2015,whole year,4,97
+matale,pepper,2016,whole year,3.5,95
+matale,pepper,2016,whole year,2,88
+matale,pepper,2017,whole year,2.5,84
+matale,pepper,2017,whole year,4,85
+matale,pepper,2018,whole year,4.5,86
+matale,pepper,2018,whole year,5,81
+matale,pepper,2019,whole year,6,82
+matale,pepper,2019,whole year,3.5,83
+matale,pepper,2020,whole year,2.5,87
+matale,pepper,2020,whole year,4,80
+matale,pepper,2021,whole year,1.5,78
+matale,pepper,2021,whole year,2.5,79
+matale,pepper,2022,whole year,6,84
+matale,pepper,2022,whole year,3,86
+galle,pepper,2019,whole year,1.5,89
+galle,pepper,2020,whole year,1,81
+galle,pepper,2020,whole year,1.5,82
+galle,pepper,2021,whole year,2,65
+galle,pepper,2021,whole year,1.25,57
+galle,pepper,2022,whole year,1,54
+galle,pepper,2022,whole year,0.5,52
+matara,pepper,2013,whole year,1.2,48
+matara,pepper,2013,whole year,1,44
+matara,pepper,2014,whole year,1.5,35
+matara,pepper,2014,whole year,0.5,36
+matara,pepper,2015,whole year,2,51
+matara,pepper,2015,whole year,1,47
+matara,pepper,2016,whole year,1.5,44
+kegalle,pepper,2015,whole year,5,79
+kegalle,pepper,2016,whole year,5.5,78.5
+kegalle,pepper,2016,whole year,4.5,74
+kegalle,pepper,2017,whole year,2.5,84
+kegalle,pepper,2017,whole year,2.5,85
+kegalle,pepper,2018,whole year,6,81.2
+kegalle,pepper,2018,whole year,5,86
+kegalle,pepper,2019,whole year,4.5,87.5
+kegalle,pepper,2019,whole year,5.5,84
+kegalle,pepper,2020,whole year,3.5,86
+kegalle,pepper,2020,whole year,6,89
+kegalle,pepper,2021,whole year,4.5,82
+kegalle,pepper,2021,whole year,6,83
+kegalle,pepper,2022,whole year,7,89
+kegalle,pepper,2022,whole year,7,90
+kurunegala,pepper,2013,whole year,5,75
+kurunegala,pepper,2013,whole year,5.5,76.5
+kurunegala,pepper,2014,whole year,4.5,84
+kurunegala,pepper,2014,whole year,4,82
+kurunegala,pepper,2015,whole year,3.5,89
+kurunegala,pepper,2015,whole year,2.5,90
+kurunegala,pepper,2016,whole year,2.5,89
+kurunegala,pepper,2016,whole year,1.5,74
+kurunegala,pepper,2017,whole year,7,63.5
+kurunegala,pepper,2017,whole year,6.5,78
+kurunegala,pepper,2018,whole year,2.5,81
+kurunegala,pepper,2018,whole year,4.5,82
+kurunegala,pepper,2019,whole year,3.5,86
+kurunegala,pepper,2019,whole year,2.5,84.5
+kurunegala,pepper,2020,whole year,5,83.1
+kurunegala,pepper,2020,whole year,4.5,79.2
+kurunegala,pepper,2021,whole year,2.6,82.6
+badulla,pepper,2013,whole year,5,78.5
+badulla,pepper,2013,whole year,4.5,74
+badulla,pepper,2014,whole year,5.5,75.6
+badulla,pepper,2014,whole year,6.5,79
+badulla,pepper,2015,whole year,2.5,84.5
+badulla,pepper,2015,whole year,2.5,89.5
+badulla,pepper,2016,whole year,1.5,78.5
+badulla,pepper,2016,whole year,4,74.1
+badulla,pepper,2017,whole year,2.5,79
+badulla,pepper,2017,whole year,2.6,80
+badulla,pepper,2018,whole year,1.5,86.3
+badulla,pepper,2018,whole year,5,75
+badulla,pepper,2019,whole year,4.2,76.5
+ratnapura,pepper,2013,whole year,5,80
+ratnapura,pepper,2013,whole year,5.5,81
+ratnapura,pepper,2014,whole year,4.5,82.5
+ratnapura,pepper,2014,whole year,4.2,84
+ratnapura,pepper,2015,whole year,4.6,85
+ratnapura,pepper,2015,whole year,5.2,86
+ratnapura,pepper,2016,whole year,1.2,87.5
+ratnapura,pepper,2016,whole year,2.5,89
+ratnapura,pepper,2017,whole year,4.5,90
+ratnapura,pepper,2017,whole year,5,91
+Colombo,greenchilli,2013,whole year,0.5,15
+Colombo,greenchilli,2013,whole year,0.5,16
+Colombo,greenchilli,2014,whole year,1,14.5
+gampaha,greenchilli,2016,whole year,1,12.5
+gampaha,greenchilli,2017,whole year,1,20
+gampaha,greenchilli,2017,whole year,0.5,16
+gampaha,greenchilli,2018,whole year,0.5,16.5
+galle,greenchilli,2013,whole year,0.5,35
+galle,greenchilli,2013,whole year,1,47
+galle,greenchilli,2014,whole year,1,36
+galle,greenchilli,2014,whole year,2.5,41
+galle,greenchilli,2015,whole year,2,47
+galle,greenchilli,2015,whole year,1.5,46
+matara,greenchilli,2021,whole year,2,51
+matara,greenchilli,2021,whole year,1.5,52
+matara,greenchilli,2022,whole year,0.5,41
+matara,greenchilli,2022,whole year,0.5,35
+hambantota,greenchilli,2013,whole year,5,75
+hambantota,greenchilli,2013,whole year,4.5,76.5
+hambantota,greenchilli,2014,whole year,5,78
+hambantota,greenchilli,2014,whole year,4.5,79
+hambantota,greenchilli,2015,whole year,6,80
+hambantota,greenchilli,2015,whole year,2.5,81
+hambantota,greenchilli,2016,whole year,2.5,82
+hambantota,greenchilli,2016,whole year,1.5,85
+hambantota,greenchilli,2017,whole year,1,89
+hambantota,greenchilli,2017,whole year,5,87
+jaffna,greenchilli,2013,whole year,4.5,76
+jaffna,greenchilli,2013,whole year,3.5,75
+jaffna,greenchilli,2014,whole year,3,74.1
+jaffna,greenchilli,2014,whole year,2.5,65
+jaffna,greenchilli,2015,whole year,1.5,59
+jaffna,greenchilli,2015,whole year,2,48
+jaffna,greenchilli,2016,whole year,2,49
+jaffna,greenchilli,2016,whole year,1.5,51
+mannar,greenchilli,2015,whole year,5,49
+mannar,greenchilli,2015,whole year,4.5,52
+mullaitivu,greenchilli,2021,whole year,6,47
+mullaitivu,greenchilli,2022,whole year,5,51
+mullaitivu,greenchilli,2022,whole year,2.5,53
+mullaitivu,greenchilli,2013,whole year,2.5,45
+mullaitivu,greenchilli,2013,whole year,4,46.2
+mullaitivu,greenchilli,2014,whole year,3.5,51
+mullaitivu,greenchilli,2014,whole year,5,48
+mullaitivu,greenchilli,2015,whole year,4,41
+vavuniya,greenchilli,2013,whole year,1.5,78
+vavuniya,greenchilli,2013,whole year,2.5,84
+vavuniya,greenchilli,2014,whole year,5,89
+vavuniya,greenchilli,2014,whole year,6,81
+vavuniya,greenchilli,2015,whole year,7,85
+vavuniya,greenchilli,2015,whole year,6,86
+vavuniya,greenchilli,2016,whole year,5,82
+vavuniya,greenchilli,2016,whole year,4.5,85
+vavuniya,greenchilli,2017,whole year,3,90
+vavuniya,greenchilli,2017,whole year,3.5,89
+vavuniya,greenchilli,2018,whole year,4.5,88
+vavuniya,greenchilli,2018,whole year,2.5,78
+trincomalee,greenchilli,2022,whole year,2.5,77
+trincomalee,greenchilli,2022,whole year,1.5,75.4
+ampara,greenchilli,2013,whole year,5,73.2
+ampara,greenchilli,2013,whole year,4.5,80
+ampara,greenchilli,2014,whole year,4.5,84
+ampara,greenchilli,2014,whole year,2.5,75
+ampara,greenchilli,2015,whole year,2.5,86.5
+ampara,greenchilli,2015,whole year,2.5,79.5
+ampara,greenchilli,2016,whole year,4,78
+ampara,greenchilli,2016,whole year,4.5,74
+puttalam,greenchilli,2013,whole year,5,62
+puttalam,greenchilli,2013,whole year,4.5,65.2
+puttalam,greenchilli,2014,whole year,3.5,69
+puttalam,greenchilli,2014,whole year,2.5,71
+puttalam,greenchilli,2015,whole year,2.5,49
+puttalam,greenchilli,2015,whole year,4.5,57
+puttalam,greenchilli,2016,whole year,5,63
+puttalam,greenchilli,2016,whole year,4.2,64
+puttalam,greenchilli,2017,whole year,1.5,68
+puttalam,greenchilli,2017,whole year,3.5,69
+puttalam,greenchilli,2018,whole year,4.5,71
+puttalam,greenchilli,2018,whole year,3,63
+puttalam,greenchilli,2022,whole year,5,74
+anuradhapura,greenchilli,2013,whole year,2.5,78
+anuradhapura,greenchilli,2013,whole year,1.5,75
+anuradhapura,greenchilli,2014,whole year,5.5,76
+anuradhapura,greenchilli,2014,whole year,4.5,72
+anuradhapura,greenchilli,2015,whole year,2,73.5
+anuradhapura,greenchilli,2015,whole year,5,81
+anuradhapura,greenchilli,2016,whole year,3.5,78
+anuradhapura,greenchilli,2016,whole year,4,84
+anuradhapura,greenchilli,2017,whole year,6,85
+anuradhapura,greenchilli,2017,whole year,2.5,79.5
+anuradhapura,greenchilli,2018,whole year,1.5,81
+anuradhapura,greenchilli,2018,whole year,4.5,82
+anuradhapura,greenchilli,2019,whole year,2.5,84
+anuradhapura,greenchilli,2019,whole year,2.6,86
+Colombo,cucumber,2013,whole year,1.5,51
+Colombo,cucumber,2013,whole year,1.5,48
+Colombo,cucumber,2014,whole year,2,43
+Colombo,cucumber,2014,whole year,0.5,41
+Colombo,cucumber,2015,whole year,1.5,39.5
+gampaha,cucumber,2013,whole year,1.5,48
+gampaha,cucumber,2015,whole year,1.5,41
+gampaha,cucumber,2021,whole year,2,47
+gampaha,cucumber,2021,whole year,3.5,46
+gampaha,cucumber,2022,whole year,2,47
+gampaha,cucumber,2022,whole year,1.5,48
+kalutara,cucumber,2013,whole year,0.5,49
+kalutara,cucumber,2013,whole year,0.5,41
+kalutara,cucumber,2014,whole year,1,42
+kalutara,cucumber,2014,whole year,1.5,38
+kalutara,cucumber,2015,whole year,2,37
+kalutara,cucumber,2018,whole year,2.5,32
+kandy,cucumber,2022,whole year,2.5,40
+matale,cucumber,2013,whole year,3,45
+matale,cucumber,2013,whole year,1,28
+matale,cucumber,2014,whole year,1.5,34
+matale,cucumber,2014,whole year,3,45
+matale,cucumber,2015,whole year,2.5,38
+matale,cucumber,2015,whole year,1.5,30
+matale,cucumber,2016,whole year,2.5,37
+matale,cucumber,2016,whole year,1.25,29
+matale,cucumber,2017,whole year,3.5,47
+matale,cucumber,2017,whole year,3.25,43
+matale,cucumber,2018,whole year,2.5,37
+matale,cucumber,2018,whole year,3.25,43
+galle,cucumber,2013,whole year,2,41
+galle,cucumber,2013,whole year,1.5,47
+galle,cucumber,2014,whole year,2.5,48
+galle,cucumber,2014,whole year,3,43
+matara,cucumber,2013,whole year,2.5,41
+matara,cucumber,2013,whole year,1,42
+matara,cucumber,2014,whole year,1.5,38
+matara,cucumber,2014,whole year,0.5,36
+matara,cucumber,2015,whole year,0.5,31
+hambantota,cucumber,2013,whole year,2,78
+hambantota,cucumber,2013,whole year,2.5,79.5
+hambantota,cucumber,2014,whole year,2.5,80
+hambantota,cucumber,2014,whole year,3,81
+hambantota,cucumber,2015,whole year,4,84
+hambantota,cucumber,2015,whole year,4.5,87
+hambantota,cucumber,2016,whole year,2.5,86
+hambantota,cucumber,2016,whole year,1.5,89
+hambantota,cucumber,2017,whole year,1,74
+hambantota,cucumber,2017,whole year,2,71
+hambantota,cucumber,2018,whole year,3,69
+hambantota,cucumber,2018,whole year,3.5,73
+hambantota,cucumber,2019,whole year,2.5,74
+jaffna,cucumber,2013,whole year,1.5,51
+jaffna,cucumber,2013,whole year,1.2,48
+batticaloa,cucumber,2018,whole year,1.5,39
+batticaloa,cucumber,2018,whole year,1,35
+batticaloa,cucumber,2019,whole year,1.2,34
+batticaloa,cucumber,2019,whole year,1.2,38
+batticaloa,cucumber,2020,whole year,1,47
+batticaloa,cucumber,2020,whole year,0.5,41
+batticaloa,cucumber,2021,whole year,2,42
+batticaloa,cucumber,2021,whole year,2.5,45
+batticaloa,cucumber,2022,whole year,2,39.5
+batticaloa,cucumber,2022,whole year,1.5,47
+ampara,cucumber,2013,whole year,2,71
+ampara,cucumber,2013,whole year,3.5,74
+ampara,cucumber,2014,whole year,4.5,75
+ampara,cucumber,2014,whole year,5,76
+ampara,cucumber,2015,whole year,2.5,78
+ampara,cucumber,2015,whole year,2.5,74
+ampara,cucumber,2016,whole year,1.5,71
+ampara,cucumber,2016,whole year,3,72
+ampara,cucumber,2017,whole year,4,69
+ampara,cucumber,2017,whole year,2.5,62
+ampara,cucumber,2018,whole year,2.5,61
+ampara,cucumber,2018,whole year,4,74
+puttalam,cucumber,2020,whole year,2.5,62
+puttalam,cucumber,2020,whole year,1.5,65
+puttalam,cucumber,2021,whole year,2.5,67
+puttalam,cucumber,2021,whole year,2.5,61
+puttalam,cucumber,2022,whole year,1.5,64
+puttalam,cucumber,2022,whole year,4,89
+anuradhapura,cucumber,2013,whole year,3.5,84
+anuradhapura,cucumber,2013,whole year,2,83
+anuradhapura,cucumber,2014,whole year,1.5,81
+anuradhapura,cucumber,2014,whole year,2.5,75
+anuradhapura,cucumber,2015,whole year,2.1,79
+anuradhapura,cucumber,2015,whole year,3,71
+anuradhapura,cucumber,2016,whole year,3.5,69
+anuradhapura,cucumber,2016,whole year,4,78
+anuradhapura,cucumber,2017,whole year,2.5,74
+anuradhapura,cucumber,2017,whole year,2.5,69
+anuradhapura,cucumber,2018,whole year,2.5,70
+polonnaruwa,cucumber,2013,whole year,2.5,72
+polonnaruwa,cucumber,2013,whole year,1.5,75
+polonnaruwa,cucumber,2014,whole year,1.5,61
+polonnaruwa,cucumber,2014,whole year,2,58
+galle,mungbean,2013,whole year,1.5,47
+galle,mungbean,2013,whole year,1,46
+galle,mungbean,2014,whole year,1.2,36
+galle,mungbean,2014,whole year,13,39
+galle,mungbean,2015,whole year,2.5,48
+galle,mungbean,2015,whole year,2.5,41
+galle,mungbean,2016,whole year,1.5,43.5
+galle,mungbean,2016,whole year,1,47
+galle,mungbean,2017,whole year,2.5,41
+galle,mungbean,2017,whole year,2,40
+galle,mungbean,2018,whole year,2,36
+galle,mungbean,2018,whole year,1.5,35
+galle,mungbean,2019,whole year,1.5,34
+matara,mungbean,2017,whole year,2,32
+matara,mungbean,2017,whole year,3.5,31
+matara,mungbean,2018,whole year,2,30
+matara,mungbean,2018,whole year,1.5,42
+matara,mungbean,2019,whole year,1.5,41
+matara,mungbean,2019,whole year,2.5,47
+matara,mungbean,2020,whole year,2.5,45
+matara,mungbean,2020,whole year,3,49
+matara,mungbean,2021,whole year,1.5,51
+matara,mungbean,2021,whole year,4,48.5
+matara,mungbean,2022,whole year,2.5,47
+matara,mungbean,2022,whole year,5,46
+hambantota,mungbean,2013,whole year,4.5,43
+hambantota,mungbean,2013,whole year,4.5,47
+hambantota,mungbean,2014,whole year,2.5,49
+hambantota,mungbean,2014,whole year,2.5,61
+hambantota,mungbean,2015,whole year,1,65
+hambantota,mungbean,2015,whole year,5,69
+hambantota,mungbean,2016,whole year,3,71
+hambantota,mungbean,2016,whole year,4,72
+hambantota,mungbean,2017,whole year,5,78
+hambantota,mungbean,2017,whole year,2,74
+hambantota,mungbean,2018,whole year,6,75
+hambantota,mungbean,2018,whole year,7,74
+hambantota,mungbean,2019,whole year,1.5,78
+hambantota,mungbean,2019,whole year,2,79
+hambantota,mungbean,2020,whole year,4,73
+hambantota,mungbean,2020,whole year,3,75
+hambantota,mungbean,2021,whole year,2,74
+hambantota,mungbean,2021,whole year,5,72
+hambantota,mungbean,2022,whole year,2.5,71
+hambantota,mungbean,2022,whole year,2.5,70
+vavuniya,mungbean,2019,whole year,2.5,51
+vavuniya,mungbean,2019,whole year,5,71
+vavuniya,mungbean,2020,whole year,5.5,69
+vavuniya,mungbean,2020,whole year,5.2,74
+vavuniya,mungbean,2021,whole year,4.5,75
+vavuniya,mungbean,2021,whole year,2.5,76
+vavuniya,mungbean,2022,whole year,2,73
+vavuniya,mungbean,2022,whole year,1.5,70
+trincomalee,mungbean,2013,whole year,2.5,68
+trincomalee,mungbean,2013,whole year,2,69
+trincomalee,mungbean,2014,whole year,1.5,59
+trincomalee,mungbean,2014,whole year,2.5,58
+trincomalee,mungbean,2015,whole year,2.4,60
+ampara,mungbean,2014,whole year,5,71
+ampara,mungbean,2015,whole year,5.5,72
+ampara,mungbean,2015,whole year,4,75
+ampara,mungbean,2016,whole year,2.5,79
+ampara,mungbean,2016,whole year,2,80
+ampara,mungbean,2017,whole year,1.5,69
+ampara,mungbean,2017,whole year,2.5,74
+ampara,mungbean,2018,whole year,3,78
+ampara,mungbean,2018,whole year,3.5,73
+ampara,mungbean,2019,whole year,2.5,75
+ampara,mungbean,2019,whole year,1,72
+ampara,mungbean,2020,whole year,4,71
+ampara,mungbean,2020,whole year,2,70
+ampara,mungbean,2021,whole year,1.5,69
+ampara,mungbean,2021,whole year,1,81
+ampara,mungbean,2022,whole year,2,82
+ampara,mungbean,2022,whole year,2.5,83
+kurunegala,mungbean,2013,whole year,2,81
+kurunegala,mungbean,2013,whole year,2.5,79
+kurunegala,mungbean,2014,whole year,3,78
+kurunegala,mungbean,2014,whole year,4,76
+kurunegala,mungbean,2015,whole year,4.5,83
+kurunegala,mungbean,2015,whole year,2.5,89
+kurunegala,mungbean,2016,whole year,2,87
+kurunegala,mungbean,2016,whole year,1.5,81
+kurunegala,mungbean,2017,whole year,1.5,79
+kurunegala,mungbean,2017,whole year,1.5,86
+kurunegala,mungbean,2018,whole year,2,83
+kurunegala,mungbean,2018,whole year,2.5,81
+kurunegala,mungbean,2019,whole year,3,85
+anuradhapura,mungbean,2013,whole year,4,80
+anuradhapura,mungbean,2014,whole year,5,81
+anuradhapura,mungbean,2015,whole year,5,79
+anuradhapura,mungbean,2016,whole year,4,75
+anuradhapura,mungbean,2017,whole year,2.5,76
+anuradhapura,mungbean,2018,whole year,2,78
+anuradhapura,mungbean,2019,whole year,1.5,87
+anuradhapura,mungbean,2020,whole year,1,85
+anuradhapura,mungbean,2021,whole year,3,81
+polonnaruwa,mungbean,2013,whole year,3.5,84
+polonnaruwa,mungbean,2013,whole year,2,85
+polonnaruwa,mungbean,2014,whole year,2.5,81
+polonnaruwa,mungbean,2014,whole year,4,82
+polonnaruwa,mungbean,2015,whole year,2.5,83
+polonnaruwa,mungbean,2015,whole year,2,81
+polonnaruwa,mungbean,2018,whole year,1,80
+polonnaruwa,mungbean,2019,whole year,1.5,81
+polonnaruwa,mungbean,2019,whole year,4,87
+polonnaruwa,mungbean,2020,whole year,3,83
+polonnaruwa,mungbean,2020,whole year,3.5,81
+polonnaruwa,mungbean,2021,whole year,2,82
+polonnaruwa,mungbean,2021,whole year,2.5,86
+polonnaruwa,mungbean,2022,whole year,2,84
+polonnaruwa,mungbean,2022,whole year,1.5,89
+Colombo,potato,2021,whole year,0,0
+Colombo,potato,2020,whole year,0,0
+gampaha,potato,2021,whole year,0,0
+gampaha,potato,2020,whole year,0,0
+kalutara,potato,2013,whole year,0,0
+kalutara,potato,2013,whole year,0,0
+kalutara,potato,2014,whole year,0,0
+kandy,potato,2013,whole year,2.5,78
+kandy,potato,2013,whole year,2.5,74
+kandy,potato,2014,whole year,3,75
+kandy,potato,2014,whole year,1.5,76
+kandy,potato,2015,whole year,1,71
+kandy,potato,2015,whole year,2.5,69
+kandy,potato,2016,whole year,4,72
+kandy,potato,2016,whole year,2.5,73
+kandy,potato,2017,whole year,2,70
+kandy,potato,2017,whole year,1.5,63
+kandy,potato,2018,whole year,1,72
+kandy,potato,2018,whole year,1.5,75
+kandy,potato,2019,whole year,2,76
+kandy,potato,2019,whole year,3,74
+kandy,potato,2020,whole year,2.5,71
+kandy,potato,2020,whole year,4,70
+kandy,potato,2021,whole year,2,78
+kandy,potato,2021,whole year,1.5,79
+kandy,potato,2022,whole year,1,80
+matale,potato,2021,whole year,0.5,25
+matale,potato,2022,whole year,0.5,26
+matale,potato,2022,whole year,0.5,21
+nuwaraEliya,potato,2013,whole year,5,78
+nuwaraEliya,potato,2014,whole year,5.5,79
+nuwaraEliya,potato,2015,whole year,6,80
+nuwaraEliya,potato,2016,whole year,4.5,81
+nuwaraEliya,potato,2017,whole year,2.5,75
+nuwaraEliya,potato,2018,whole year,1,73
+nuwaraEliya,potato,2019,whole year,1.5,71
+nuwaraEliya,potato,2020,whole year,3,72
+nuwaraEliya,potato,2020,whole year,3.5,78
+nuwaraEliya,potato,2020,whole year,4,81
+nuwaraEliya,potato,2021,whole year,5,82
+nuwaraEliya,potato,2022,whole year,5,89
+nuwaraEliya,potato,2022,whole year,2.5,87
+puttalam,potato,2013,whole year,2,75
+puttalam,potato,2014,whole year,2,76
+puttalam,potato,2015,whole year,1.5,74
+puttalam,potato,2016,whole year,1,71
+puttalam,potato,2017,whole year,2.5,70
+puttalam,potato,2018,whole year,3,78
+puttalam,potato,2019,whole year,4,79
+puttalam,potato,2020,whole year,2.5,80
+puttalam,potato,2021,whole year,1.5,25
+puttalam,potato,2022,whole year,1,26
+puttalam,potato,2022,whole year,1.5,21
+badulla,potato,2013,whole year,2,78
+badulla,potato,2013,whole year,2.5,79
+badulla,potato,2014,whole year,2.5,80
+badulla,potato,2014,whole year,2,81
+badulla,potato,2015,whole year,2.5,75
+badulla,potato,2015,whole year,2.5,73
+badulla,potato,2016,whole year,2.5,71
+badulla,potato,2016,whole year,2,72
+badulla,potato,2017,whole year,3,78
+badulla,potato,2017,whole year,2.5,75
+badulla,potato,2018,whole year,2.5,76
+badulla,potato,2018,whole year,2,74
+badulla,potato,2019,whole year,2.5,71
+badulla,potato,2019,whole year,2.5,70
+badulla,potato,2020,whole year,2.5,78
+badulla,potato,2020,whole year,2,79
+badulla,potato,2021,whole year,3,80
+badulla,potato,2021,whole year,4,25
+badulla,potato,2022,whole year,5,26
+badulla,potato,2022,whole year,3,21
+kalutara,tea,2017,whole year,5,71
+kalutara,tea,2018,whole year,4,72
+kalutara,tea,2018,whole year,3,75
+kalutara,tea,2019,whole year,3.5,79
+kalutara,tea,2019,whole year,5,80
+kalutara,tea,2020,whole year,5.5,69
+kandy,tea,2013,whole year,6,74
+kandy,tea,2014,whole year,7,78
+kandy,tea,2015,whole year,4,73
+kandy,tea,2016,whole year,10,75
+kandy,tea,2017,whole year,12,72
+kandy,tea,2018,whole year,15,71
+kandy,tea,2019,whole year,16,70
+kandy,tea,2020,whole year,14,69
+kandy,tea,2021,whole year,7,81
+kandy,tea,2022,whole year,8,82
+nuwaraEliya,tea,2013,whole year,9,83
+nuwaraEliya,tea,2014,whole year,20,81
+nuwaraEliya,tea,2015,whole year,15,79
+nuwaraEliya,tea,2016,whole year,16,78
+nuwaraEliya,tea,2017,whole year,17,76
+nuwaraEliya,tea,2018,whole year,18,83
+nuwaraEliya,tea,2019,whole year,14,89
+nuwaraEliya,tea,2020,whole year,12,87
+nuwaraEliya,tea,2021,whole year,10,81
+nuwaraEliya,tea,2022,whole year,8,79
+galle,tea,2013,whole year,7,86
+galle,tea,2014,whole year,6,83
+galle,tea,2015,whole year,5,81
+galle,tea,2016,whole year,4.5,85
+galle,tea,2017,whole year,2.5,80
+galle,tea,2018,whole year,4,81
+galle,tea,2019,whole year,7,79
+galle,tea,2020,whole year,6,75
+galle,tea,2021,whole year,8,76
+galle,tea,2022,whole year,5,78
+matara,tea,2013,whole year,5,87
+matara,tea,2014,whole year,10,85
+matara,tea,2015,whole year,12,81
+matara,tea,2016,whole year,3,84
+matara,tea,2017,whole year,6,85
+matara,tea,2018,whole year,5,81
+matara,tea,2019,whole year,4.5,82
+matara,tea,2020,whole year,5,83
+matara,tea,2021,whole year,4,81
+matara,tea,2022,whole year,4.5,80
+badulla,tea,2013,whole year,4.5,81
+badulla,tea,2014,whole year,4.5,87
+badulla,tea,2015,whole year,2,83
+badulla,tea,2016,whole year,2.5,81
+badulla,tea,2017,whole year,7.5,82
+badulla,tea,2018,whole year,10,86
+badulla,tea,2019,whole year,12,84
+badulla,tea,2020,whole year,12,89
+badulla,tea,2021,whole year,15,71
+badulla,tea,2022,whole year,14,72
+kegalle,tea,2013,whole year,17,75
+kegalle,tea,2014,whole year,7,79
+kegalle,tea,2015,whole year,8,80
+kegalle,tea,2016,whole year,9,69
+kegalle,tea,2017,whole year,10,74
+kegalle,tea,2018,whole year,12,78
+kegalle,tea,2019,whole year,11,73
+kegalle,tea,2020,whole year,13,75
+kegalle,tea,2021,whole year,14,72
+kegalle,tea,2022,whole year,5,71
+ratnapura,tea,2013,whole year,8,70
+ratnapura,tea,2014,whole year,7,69
+ratnapura,tea,2015,whole year,10,81
+ratnapura,tea,2016,whole year,12,82
+ratnapura,tea,2017,whole year,14,83
+ratnapura,tea,2018,whole year,15,81
+ratnapura,tea,2019,whole year,6,79
+ratnapura,tea,2020,whole year,16,78
+ratnapura,tea,2021,whole year,13,76
+ratnapura,tea,2022,whole year,12,83
+hambantota,pomegranate,2013,whole year,2,81
+hambantota,pomegranate,2014,whole year,2.5,85
+hambantota,pomegranate,2015,whole year,1.5,80
+hambantota,pomegranate,2016,whole year,5,81
+hambantota,pomegranate,2017,whole year,4,79
+hambantota,pomegranate,2018,whole year,2.5,75
+hambantota,pomegranate,2019,whole year,3,76
+hambantota,pomegranate,2020,whole year,3.5,78
+hambantota,pomegranate,2021,whole year,2.5,87
+hambantota,pomegranate,2022,whole year,2,85
+hambantota,pomegranate,2021,whole year,1.5,81
+hambantota,pomegranate,2022,whole year,2.5,85
+gampaha,pomegranate,2013,whole year,2,82
+gampaha,pomegranate,2013,whole year,2.5,83
+gampaha,pomegranate,2014,whole year,2,81
+gampaha,pomegranate,2014,whole year,3.5,80
+gampaha,pomegranate,2015,whole year,3,81
+kalutara,pomegranate,2013,whole year,1.5,65
+kalutara,pomegranate,2014,whole year,1,59
+kalutara,pomegranate,2015,whole year,2.5,48
+kalutara,pomegranate,2016,whole year,2,47
+kalutara,pomegranate,2017,whole year,2.5,46
+kalutara,pomegranate,2018,whole year,2,45
+kalutara,pomegranate,2019,whole year,1.5,42
+kalutara,pomegranate,2020,whole year,2,48
+kalutara,pomegranate,2021,whole year,2.5,41
+kalutara,pomegranate,2022,whole year,1.5,43
+galle,pomegranate,2013,whole year,1,48
+galle,pomegranate,2014,whole year,1.5,47
+galle,pomegranate,2015,whole year,1,46
+galle,pomegranate,2016,whole year,1.5,45
+galle,pomegranate,2017,whole year,2,42
+galle,pomegranate,2018,whole year,1,48
+galle,pomegranate,2019,whole year,1.5,41
+galle,pomegranate,2020,whole year,2,43
+galle,pomegranate,2021,whole year,1.5,50
+galle,pomegranate,2022,whole year,2,51
+matara,pomegranate,2013,whole year,1,46
+matara,pomegranate,2014,whole year,1.5,45
+matara,pomegranate,2015,whole year,2,42
+matara,pomegranate,2016,whole year,1,48
+matara,pomegranate,2017,whole year,1.5,41
+matara,pomegranate,2018,whole year,2,43
+matara,pomegranate,2019,whole year,1.5,50
+matara,pomegranate,2020,whole year,2,51
+matara,pomegranate,2021,whole year,1,75
+matara,pomegranate,2022,whole year,1.5,78
+hambantota,pomegranate,2013,whole year,2,79
+hambantota,pomegranate,2014,whole year,1,73
+hambantota,pomegranate,2015,whole year,1.5,78
+hambantota,pomegranate,2016,whole year,2,81
+hambantota,pomegranate,2017,whole year,1.5,85
+hambantota,pomegranate,2018,whole year,2,84
+hambantota,pomegranate,2019,whole year,2,86
+hambantota,pomegranate,2020,whole year,2.1,82
+hambantota,pomegranate,2021,whole year,2.2,82
+hambantota,pomegranate,2022,whole year,2.2,81
+batticaloa,pomegranate,2013,whole year,1.5,61
+batticaloa,pomegranate,2014,whole year,2,59
+batticaloa,pomegranate,2015,whole year,1,57
+batticaloa,pomegranate,2016,whole year,1.5,48
+batticaloa,pomegranate,2017,whole year,2,42
+batticaloa,pomegranate,2018,whole year,1,39
+batticaloa,pomegranate,2019,whole year,1.5,51
+batticaloa,pomegranate,2020,whole year,2,56
+batticaloa,pomegranate,2021,whole year,1.5,61
+batticaloa,pomegranate,2022,whole year,1,64
+kurunegala,pomegranate,2013,whole year,1,60
+kurunegala,pomegranate,2014,whole year,0.5,62
+kurunegala,pomegranate,2015,whole year,2,63
+kurunegala,pomegranate,2016,whole year,2,54
+kurunegala,pomegranate,2017,whole year,1.5,51
+kurunegala,pomegranate,2018,whole year,1.5,52
+kurunegala,pomegranate,2019,whole year,2,51
+kurunegala,pomegranate,2020,whole year,1,50
+kurunegala,pomegranate,2021,whole year,1.5,47
+kurunegala,pomegranate,2022,whole year,1.5,46
+Colombo,banana,2013,whole year,1,42
+Colombo,banana,2014,whole year,1.5,36
+Colombo,banana,2015,whole year,1.5,42
+Colombo,banana,2016,whole year,1,45
+Colombo,banana,2017,whole year,0.5,48
+Colombo,banana,2018,whole year,0.5,41
+Colombo,banana,2019,whole year,0.5,36
+Colombo,banana,2020,whole year,2.5,35
+Colombo,banana,2021,whole year,2,32
+Colombo,banana,2022,whole year,1,36
+gampaha,banana,2013,whole year,1.5,45
+gampaha,banana,2014,whole year,1,48
+gampaha,banana,2015,whole year,1.5,47
+gampaha,banana,2016,whole year,1.5,46
+gampaha,banana,2017,whole year,1,43
+gampaha,banana,2018,whole year,0.5,51
+gampaha,banana,2019,whole year,0.5,50
+gampaha,banana,2020,whole year,0.5,52
+gampaha,banana,2021,whole year,2.5,50
+gampaha,banana,2022,whole year,2,49
+kalutara,banana,2013,whole year,1,47
+kalutara,banana,2014,whole year,1.5,36
+kalutara,banana,2015,whole year,2,47
+kalutara,banana,2016,whole year,2.5,46
+kalutara,banana,2017,whole year,0.5,42
+kalutara,banana,2018,whole year,1,36
+kalutara,banana,2019,whole year,2.5,42
+kalutara,banana,2020,whole year,3,45
+kalutara,banana,2021,whole year,1,48
+kalutara,banana,2022,whole year,1.5,41
+kandy,banana,2013,whole year,2,36
+kandy,banana,2014,whole year,2.5,35
+kandy,banana,2015,whole year,2,32
+kandy,banana,2016,whole year,1.5,36
+kandy,banana,2017,whole year,1,45
+kandy,banana,2018,whole year,3,48
+kandy,banana,2019,whole year,2,47
+kandy,banana,2020,whole year,2.5,46
+kandy,banana,2021,whole year,1,43
+kandy,banana,2022,whole year,1.5,35
+matale,banana,2013,whole year,1.5,36
+matale,banana,2014,whole year,1,37
+matale,banana,2015,whole year,1,31
+matale,banana,2016,whole year,1,30
+matale,banana,2017,whole year,1,42
+matale,banana,2018,whole year,1.5,45
+matale,banana,2019,whole year,1,46
+matale,banana,2020,whole year,0.5,36
+matale,banana,2021,whole year,0.5,37
+matale,banana,2022,whole year,2,35
+galle,banana,2013,whole year,2.5,36
+galle,banana,2014,whole year,1,35
+galle,banana,2015,whole year,0.5,32
+galle,banana,2016,whole year,2,36
+galle,banana,2017,whole year,3,45
+galle,banana,2018,whole year,3.5,48
+galle,banana,2019,whole year,4,47
+galle,banana,2020,whole year,2.5,46
+galle,banana,2021,whole year,1,43
+galle,banana,2022,whole year,1.5,35
+matara,banana,2013,whole year,1,36
+matara,banana,2014,whole year,0.5,37
+matara,banana,2015,whole year,1,31
+matara,banana,2016,whole year,2,30
+matara,banana,2017,whole year,2.5,42
+matara,banana,2018,whole year,3,48
+matara,banana,2019,whole year,0.5,49
+matara,banana,2020,whole year,1,51
+matara,banana,2021,whole year,1.5,52
+matara,banana,2022,whole year,2,41
+hambantota,banana,2013,whole year,10,85
+hambantota,banana,2014,whole year,15,87
+hambantota,banana,2015,whole year,12,89
+hambantota,banana,2016,whole year,14,90
+hambantota,banana,2017,whole year,12,85
+hambantota,banana,2018,whole year,7,86
+hambantota,banana,2019,whole year,8,83
+hambantota,banana,2020,whole year,5,76
+hambantota,banana,2021,whole year,5.5,79
+hambantota,banana,2022,whole year,6,36
+jaffna,banana,2013,whole year,5,51
+jaffna,banana,2014,whole year,5.5,52
+jaffna,banana,2015,whole year,6,49
+jaffna,banana,2016,whole year,4.5,61
+jaffna,banana,2017,whole year,7,63
+jaffna,banana,2018,whole year,7.5,67
+jaffna,banana,2019,whole year,5,69
+jaffna,banana,2020,whole year,5,71
+jaffna,banana,2021,whole year,8,74
+jaffna,banana,2022,whole year,6,75
+kilinochchi,banana,2013,whole year,5.5,62
+kilinochchi,banana,2014,whole year,3.5,61
+kilinochchi,banana,2015,whole year,4,51
+kilinochchi,banana,2016,whole year,2.5,54
+kilinochchi,banana,2017,whole year,2.5,57
+kilinochchi,banana,2018,whole year,2.5,53
+kilinochchi,banana,2019,whole year,1.5,36
+kilinochchi,banana,2020,whole year,1,34
+kilinochchi,banana,2021,whole year,1,31
+mannar,banana,2013,whole year,5,36
+mannar,banana,2014,whole year,3,34
+mannar,banana,2015,whole year,2.5,31
+mannar,banana,2016,whole year,2.5,31
+mannar,banana,2017,whole year,1.5,38
+mannar,banana,2018,whole year,2,37
+mannar,banana,2019,whole year,2.5,41
+mannar,banana,2020,whole year,1,43
+mannar,banana,2021,whole year,4,46
+mannar,banana,2022,whole year,2,45
+trincomalee,banana,2013,whole year,1,36
+trincomalee,banana,2014,whole year,1,34
+trincomalee,banana,2015,whole year,5,31
+trincomalee,banana,2016,whole year,3,36
+trincomalee,banana,2017,whole year,2.5,34
+trincomalee,banana,2018,whole year,2.5,31
+trincomalee,banana,2019,whole year,1.5,31
+trincomalee,banana,2020,whole year,2,38
+trincomalee,banana,2021,whole year,2.5,37
+trincomalee,banana,2022,whole year,1,41
+batticaloa,banana,2013,whole year,4,43
+batticaloa,banana,2014,whole year,1,34
+batticaloa,banana,2015,whole year,5,31
+batticaloa,banana,2016,whole year,3,36
+batticaloa,banana,2017,whole year,2.5,34
+batticaloa,banana,2018,whole year,2.5,31
+batticaloa,banana,2019,whole year,1.5,31
+batticaloa,banana,2020,whole year,2,38
+batticaloa,banana,2021,whole year,2.5,37
+batticaloa,banana,2022,whole year,1,41
+ampara,banana,2013,whole year,2.5,61
+ampara,banana,2014,whole year,5,62
+ampara,banana,2015,whole year,4.5,67
+ampara,banana,2016,whole year,3.5,65
+ampara,banana,2017,whole year,3,64
+ampara,banana,2018,whole year,2.5,61
+ampara,banana,2019,whole year,4,57
+ampara,banana,2020,whole year,2.5,59
+ampara,banana,2021,whole year,1.5,48
+ampara,banana,2022,whole year,5,1
+kurunegala,banana,2013,whole year,5.5,61
+kurunegala,banana,2014,whole year,6,36
+kurunegala,banana,2015,whole year,4.5,34
+kurunegala,banana,2016,whole year,7,31
+kurunegala,banana,2017,whole year,2.5,31
+kurunegala,banana,2018,whole year,5,38
+kurunegala,banana,2019,whole year,5,37
+kurunegala,banana,2020,whole year,5,41
+kurunegala,banana,2021,whole year,6,43
+kurunegala,banana,2022,whole year,5.5,34
+puttalam,banana,2013,whole year,3.5,31
+puttalam,banana,2014,whole year,4,36
+puttalam,banana,2015,whole year,2.5,34
+puttalam,banana,2016,whole year,2.5,31
+puttalam,banana,2017,whole year,1.5,31
+puttalam,banana,2018,whole year,5,38
+puttalam,banana,2019,whole year,2.5,37
+puttalam,banana,2020,whole year,1.5,41
+puttalam,banana,2021,whole year,5,61
+puttalam,banana,2022,whole year,2.5,62
+anuradhapura,banana,2013,whole year,7,41
+anuradhapura,banana,2014,whole year,8,61
+anuradhapura,banana,2015,whole year,6,62
+anuradhapura,banana,2016,whole year,5.5,67
+anuradhapura,banana,2017,whole year,5.5,65
+anuradhapura,banana,2018,whole year,4,64
+anuradhapura,banana,2019,whole year,2.5,61
+anuradhapura,banana,2020,whole year,3,57
+anuradhapura,banana,2021,whole year,3.5,59
+anuradhapura,banana,2022,whole year,4,48
+polonnaruwa,banana,2013,whole year,1.5,41
+polonnaruwa,banana,2014,whole year,6,61
+polonnaruwa,banana,2015,whole year,6.5,62
+polonnaruwa,banana,2016,whole year,2,67
+polonnaruwa,banana,2017,whole year,2.5,65
+polonnaruwa,banana,2018,whole year,2,64
+polonnaruwa,banana,2019,whole year,2.5,61
+polonnaruwa,banana,2020,whole year,4.5,57
+polonnaruwa,banana,2021,whole year,4,59
+polonnaruwa,banana,2022,whole year,1.5,48
+Rathnapura,banana,2013,whole year,10,89
+Rathnapura,banana,2014,whole year,15,90
+Rathnapura,banana,2015,whole year,20,78
+Rathnapura,banana,2016,whole year,25,81
+Rathnapura,banana,2017,whole year,14,82
+Rathnapura,banana,2018,whole year,12,85
+Rathnapura,banana,2019,whole year,10,84
+Rathnapura,banana,2020,whole year,8,86
+Rathnapura,banana,2021,whole year,20,87
+Rathnapura,banana,2022,whole year,15,81
+Colombo,mango,2013,whole year,2,50
+Colombo,mango,2014,whole year,1.5,48
+Colombo,mango,2015,whole year,0.5,47
+Colombo,mango,2016,whole year,1,46
+Colombo,mango,2017,whole year,1.5,41
+Colombo,mango,2018,whole year,2,36
+Colombo,mango,2019,whole year,2.5,35
+Colombo,mango,2020,whole year,1,36
+Colombo,mango,2021,whole year,1.5,41
+Colombo,mango,2022,whole year,0.5,32
+gampaha,mango,2013,whole year,5.5,50
+gampaha,mango,2014,whole year,6.5,65
+gampaha,mango,2015,whole year,7.5,67
+gampaha,mango,2016,whole year,5,71
+gampaha,mango,2017,whole year,8,78
+gampaha,mango,2018,whole year,4,75
+gampaha,mango,2019,whole year,4.5,74
+gampaha,mango,2020,whole year,2.5,73
+gampaha,mango,2021,whole year,5,76
+gampaha,mango,2022,whole year,5,70
+matale,mango,2013,whole year,4,69
+matale,mango,2014,whole year,3.5,81
+matale,mango,2015,whole year,4,72
+matale,mango,2016,whole year,4.5,75
+matale,mango,2017,whole year,2.5,74
+matale,mango,2018,whole year,2.5,70
+matale,mango,2019,whole year,1.5,69
+matale,mango,2020,whole year,1.5,71
+matale,mango,2021,whole year,2,81
+matale,mango,2022,whole year,1.5,80
+galle,mango,2013,whole year,1,48
+galle,mango,2014,whole year,1.5,47
+galle,mango,2015,whole year,2,46
+galle,mango,2016,whole year,2.5,41
+galle,mango,2017,whole year,2,36
+galle,mango,2018,whole year,2,35
+galle,mango,2019,whole year,1.5,36
+galle,mango,2020,whole year,3,41
+galle,mango,2021,whole year,1.5,32
+galle,mango,2022,whole year,0.5,50
+matara,mango,2013,whole year,2,65
+matara,mango,2014,whole year,2.5,67
+matara,mango,2015,whole year,0.5,36
+matara,mango,2016,whole year,1,35
+matara,mango,2017,whole year,2.5,36
+matara,mango,2018,whole year,1.5,41
+matara,mango,2019,whole year,2.5,32
+matara,mango,2020,whole year,2,50
+matara,mango,2021,whole year,1.5,65
+matara,mango,2022,whole year,1,67
+hambantota,mango,2013,whole year,5,84
+hambantota,mango,2014,whole year,4.5,81
+hambantota,mango,2015,whole year,4.5,87
+hambantota,mango,2016,whole year,2,89
+hambantota,mango,2017,whole year,6,75
+hambantota,mango,2018,whole year,3.5,78
+hambantota,mango,2019,whole year,2.5,72
+hambantota,mango,2020,whole year,1.5,74
+hambantota,mango,2021,whole year,4.5,73
+hambantota,mango,2022,whole year,6.5,70
+jaffna,mango,2013,whole year,2.5,45
+jaffna,mango,2014,whole year,2.5,47
+jaffna,mango,2015,whole year,1.5,43
+jaffna,mango,2016,whole year,2,51
+jaffna,mango,2017,whole year,4.5,50
+jaffna,mango,2018,whole year,2.5,54
+jaffna,mango,2019,whole year,2.5,58
+jaffna,mango,2020,whole year,1.5,45
+jaffna,mango,2021,whole year,2,47
+jaffna,mango,2022,whole year,4.5,43
+puttalam,mango,2013,whole year,2.5,51
+puttalam,mango,2014,whole year,2.5,50
+puttalam,mango,2015,whole year,1.5,54
+puttalam,mango,2016,whole year,2,50
+puttalam,mango,2017,whole year,4.5,65
+puttalam,mango,2018,whole year,2.5,67
+puttalam,mango,2019,whole year,2.5,84
+puttalam,mango,2020,whole year,1.5,81
+puttalam,mango,2021,whole year,2,87
+puttalam,mango,2022,whole year,4.5,89
+Rathnapura,mango,2013,whole year,5.5,75
+Rathnapura,mango,2014,whole year,6,78
+Rathnapura,mango,2015,whole year,2.5,72
+Rathnapura,mango,2016,whole year,2.5,74
+Rathnapura,mango,2017,whole year,4,84
+Rathnapura,mango,2018,whole year,4.5,81
+Rathnapura,mango,2019,whole year,5,87
+Rathnapura,mango,2020,whole year,2.5,89
+Rathnapura,mango,2021,whole year,1.5,75
+Rathnapura,mango,2022,whole year,2.5,78
+Monaragala,mango,2013,whole year,5,72
+Monaragala,mango,2014,whole year,5.5,74
+Monaragala,mango,2015,whole year,6,45
+Monaragala,mango,2016,whole year,6.5,47
+Monaragala,mango,2017,whole year,5,43
+Monaragala,mango,2018,whole year,2.5,51
+Monaragala,mango,2019,whole year,4.5,50
+Monaragala,mango,2020,whole year,4,54
+Monaragala,mango,2021,whole year,4,58
+Monaragala,mango,2022,whole year,2.5,45
+kurunegala,mango,2014,whole year,2.5,47
+kurunegala,mango,2015,whole year,2.5,43
+kurunegala,mango,2016,whole year,4.5,51
+kurunegala,mango,2017,whole year,4.5,45
+kurunegala,mango,2018,whole year,2.5,47
+kurunegala,mango,2019,whole year,2.5,43
+kurunegala,mango,2020,whole year,2.5,51
+kurunegala,mango,2021,whole year,2.5,50
+kurunegala,mango,2022,whole year,1.5,54
+Colombo,carrot,2013,whole year,0,0
+Colombo,carrot,2014,whole year,0,0
+gampaha,carrot,2013,whole year,0,0
+gampaha,carrot,2014,whole year,0,0
+kalutara,carrot,2013,whole year,0,0
+kalutara,carrot,2014,whole year,0,0
+kandy,carrot,2013,whole year,2.5,61
+kandy,carrot,2014,whole year,1.5,62
+kandy,carrot,2015,whole year,1,64
+kandy,carrot,2016,whole year,2,63
+kandy,carrot,2017,whole year,1,61
+kandy,carrot,2018,whole year,1.5,60
+kandy,carrot,2019,whole year,2,59
+kandy,carrot,2020,whole year,2.5,64
+kandy,carrot,2021,whole year,4,67
+matale,carrot,2013,whole year,1.5,59
+matale,carrot,2013,whole year,1,56
+matale,carrot,2014,whole year,2.5,58
+nuwaraEliya,carrot,2013,whole year,7,85
+nuwaraEliya,carrot,2013,whole year,5,84
+nuwaraEliya,carrot,2014,whole year,5.5,87
+nuwaraEliya,carrot,2014,whole year,6,86
+nuwaraEliya,carrot,2015,whole year,4,85
+nuwaraEliya,carrot,2015,whole year,2.5,90
+nuwaraEliya,carrot,2016,whole year,2.5,78
+nuwaraEliya,carrot,2016,whole year,1.5,84
+nuwaraEliya,carrot,2017,whole year,4,85
+nuwaraEliya,carrot,2017,whole year,3.5,65
+nuwaraEliya,carrot,2018,whole year,2.1,74
+nuwaraEliya,carrot,2018,whole year,5,81
+nuwaraEliya,carrot,2019,whole year,5.5,82
+nuwaraEliya,carrot,2019,whole year,6,87
+nuwaraEliya,carrot,2020,whole year,6.5,90
+nuwaraEliya,carrot,2020,whole year,4.5,84
+nuwaraEliya,carrot,2021,whole year,5,85
+galle,carrot,2022,whole year,0,0
+galle,carrot,2022,whole year,0,0
+matara,carrot,2013,whole year,0,0
+matara,carrot,2013,whole year,0,0
+hambantota,carrot,2022,whole year,0,0
+hambantota,carrot,2022,whole year,0,0
+jaffna,carrot,2013,whole year,0,0
+jaffna,carrot,2013,whole year,0,0
+kilinochchi,carrot,2013,whole year,0,0
+kilinochchi,carrot,2013,whole year,0,0
+mannar,carrot,2013,whole year,0,0
+mannar,carrot,2013,whole year,0,0
+mullaitivu,carrot,2013,whole year,0,0
+mullaitivu,carrot,2013,whole year,0,0
+vavuniya,carrot,2013,whole year,0,0
+vavuniya,carrot,2013,whole year,0,0
+kurunegala,carrot,2013,whole year,0,0
+kurunegala,carrot,2013,whole year,0,0
+puttalam,carrot,2022,whole year,0,0
+puttalam,carrot,2022,whole year,0,0
+anuradhapura,carrot,2013,whole year,0,0
+anuradhapura,carrot,2013,whole year,0,0
+anuradhapura,carrot,2014,whole year,0,0
+badulla,carrot,2013,whole year,7,85
+badulla,carrot,2013,whole year,5,84
+badulla,carrot,2014,whole year,5.5,87
+badulla,carrot,2014,whole year,6,86
+badulla,carrot,2015,whole year,4,85
+badulla,carrot,2015,whole year,2.5,90
+badulla,carrot,2016,whole year,2.5,78
+badulla,carrot,2016,whole year,1.5,84
+badulla,carrot,2017,whole year,4,85
+badulla,carrot,2017,whole year,3.5,65
+badulla,carrot,2018,whole year,2.1,74
+badulla,carrot,2018,whole year,5,81
+badulla,carrot,2019,whole year,5.5,82
+badulla,carrot,2019,whole year,6,87
+badulla,carrot,2020,whole year,6.5,90
+badulla,carrot,2020,whole year,4.5,84
+badulla,carrot,2021,whole year,5,85
+badulla,carrot,2021,whole year,7,85
+badulla,carrot,2022,whole year,5,84
+badulla,carrot,2022,whole year,5.5,87
+ratnapura,carrot,2021,whole year,0,0
+ratnapura,carrot,2022,whole year,0,0
+ratnapura,carrot,2022,whole year,0,0
+Monaragala,watermelon,2013,whole year,2.5,65
+Monaragala,watermelon,2014,whole year,1.5,84
+Monaragala,watermelon,2015,whole year,4,85
+Monaragala,watermelon,2016,whole year,3.5,65
+Monaragala,watermelon,2017,whole year,2.1,74
+Monaragala,watermelon,2018,whole year,5,81
+Monaragala,watermelon,2019,whole year,5.5,82
+Monaragala,watermelon,2020,whole year,6,87
+Monaragala,watermelon,2021,whole year,6.5,90
+Monaragala,watermelon,2022,whole year,4.5,84
+puttalam,watermelon,2013,whole year,2.5,65
+puttalam,watermelon,2014,whole year,1.5,84
+puttalam,watermelon,2015,whole year,4,85
+puttalam,watermelon,2016,whole year,3.5,65
+puttalam,watermelon,2017,whole year,2.1,74
+puttalam,watermelon,2018,whole year,5,81
+puttalam,watermelon,2019,whole year,5.5,82
+puttalam,watermelon,2020,whole year,6,87
+puttalam,watermelon,2021,whole year,6.5,90
+puttalam,watermelon,2022,whole year,4.5,84
+gampaha,watermelon,2021,whole year,2.5,51
+gampaha,watermelon,2022,whole year,4.5,50
+gampaha,watermelon,2022,whole year,4,54
+kalutara,watermelon,2019,whole year,4,58
+kalutara,watermelon,2019,whole year,2.5,45
+kalutara,watermelon,2020,whole year,2.5,47
+kalutara,watermelon,2020,whole year,2.5,43
+galle,watermelon,2013,whole year,1.5,35
+galle,watermelon,2013,whole year,2,36
+matara,watermelon,2018,whole year,2.5,32
+matara,watermelon,2018,whole year,2.5,31
+matara,watermelon,2019,whole year,2.5,51
+hambantota,watermelon,2013,whole year,2.5,50
+hambantota,watermelon,2013,whole year,2.1,74
+hambantota,watermelon,2014,whole year,5,81
+hambantota,watermelon,2014,whole year,5.5,82
+hambantota,watermelon,2015,whole year,6,87
+hambantota,watermelon,2015,whole year,6.5,90
+hambantota,watermelon,2016,whole year,4.5,84
+hambantota,watermelon,2016,whole year,2.5,51
+hambantota,watermelon,2017,whole year,2.1,74
+hambantota,watermelon,2017,whole year,5,81
+hambantota,watermelon,2018,whole year,5.5,82
+hambantota,watermelon,2018,whole year,6,87
+hambantota,watermelon,2019,whole year,6.5,90
+hambantota,watermelon,2019,whole year,4.5,84
+hambantota,watermelon,2020,whole year,2.5,51
+hambantota,watermelon,2020,whole year,2.1,74
+hambantota,watermelon,2021,whole year,5,81
+hambantota,watermelon,2021,whole year,5.5,82
+hambantota,watermelon,2022,whole year,6,87
+hambantota,watermelon,2022,whole year,6.5,90
+anuradhapura,watermelon,2013,whole year,4.5,84
+anuradhapura,watermelon,2013,whole year,2.5,51
+anuradhapura,watermelon,2014,whole year,5,84
+anuradhapura,watermelon,2014,whole year,5.5,87
+anuradhapura,watermelon,2015,whole year,6,86
+anuradhapura,watermelon,2015,whole year,4,85
+anuradhapura,watermelon,2016,whole year,2.5,90
+anuradhapura,watermelon,2016,whole year,2.5,78
+anuradhapura,watermelon,2017,whole year,1.5,84
+anuradhapura,watermelon,2017,whole year,4,85
+anuradhapura,watermelon,2018,whole year,3.5,65
+anuradhapura,watermelon,2018,whole year,2.1,74
+anuradhapura,watermelon,2019,whole year,5,81
+anuradhapura,watermelon,2019,whole year,5.5,82
+anuradhapura,watermelon,2020,whole year,6,87
+anuradhapura,watermelon,2020,whole year,5,84
+anuradhapura,watermelon,2021,whole year,5.5,87
+anuradhapura,watermelon,2021,whole year,6,86
+anuradhapura,watermelon,2022,whole year,4,85
+anuradhapura,watermelon,2022,whole year,2.5,90
+polonnaruwa,watermelon,2013,whole year,2.5,78
+polonnaruwa,watermelon,2013,whole year,1.5,84
+polonnaruwa,watermelon,2014,whole year,4,85
+polonnaruwa,watermelon,2014,whole year,3.5,65
+polonnaruwa,watermelon,2015,whole year,2.1,74
+polonnaruwa,watermelon,2015,whole year,5,81
+polonnaruwa,watermelon,2016,whole year,5.5,82
+polonnaruwa,watermelon,2016,whole year,6,87
+polonnaruwa,watermelon,2017,whole year,5,84
+polonnaruwa,watermelon,2017,whole year,5.5,87
+polonnaruwa,watermelon,2018,whole year,6,86
+polonnaruwa,watermelon,2018,whole year,4,85
+polonnaruwa,watermelon,2019,whole year,2.5,90
+polonnaruwa,watermelon,2019,whole year,2.5,78
+polonnaruwa,watermelon,2020,whole year,1.5,84
+polonnaruwa,watermelon,2020,whole year,4,85
+polonnaruwa,watermelon,2021,whole year,3.5,65
+polonnaruwa,watermelon,2021,whole year,2.1,74
+polonnaruwa,watermelon,2022,whole year,5,81
+polonnaruwa,watermelon,2022,whole year,5.5,82
+ratnapura,watermelon,2013,whole year,4,85
+ratnapura,watermelon,2013,whole year,2.5,90
+ratnapura,watermelon,2014,whole year,2.5,78
+ratnapura,watermelon,2014,whole year,1.5,84
+ratnapura,watermelon,2015,whole year,4,85
+ratnapura,watermelon,2015,whole year,3.5,65
+ratnapura,watermelon,2016,whole year,2.1,74
+ratnapura,watermelon,2016,whole year,5,81
+ratnapura,watermelon,2017,whole year,5.5,82
+ratnapura,watermelon,2017,whole year,4,85
+ratnapura,watermelon,2018,whole year,2.5,90
+ratnapura,watermelon,2018,whole year,2.5,78
+ratnapura,watermelon,2019,whole year,1.5,84
+ratnapura,watermelon,2019,whole year,4,85
+ratnapura,watermelon,2020,whole year,3.5,65
+ratnapura,watermelon,2020,whole year,2.1,74
+ratnapura,watermelon,2021,whole year,5,81
+ratnapura,watermelon,2021,whole year,4,85
+ratnapura,watermelon,2022,whole year,2.5,90
+ratnapura,watermelon,2022,whole year,2.5,78
+Colombo,beetroot,2013,whole year,0,0
+Colombo,beetroot,2014,whole year,0,0
+gampaha,beetroot,2013,whole year,0,0
+gampaha,beetroot,2014,whole year,0,0
+kalutara,beetroot,2013,whole year,0,0
+kalutara,beetroot,2014,whole year,0,0
+kandy,beetroot,2013,whole year,2.5,61
+kandy,beetroot,2014,whole year,1.5,62
+kandy,beetroot,2015,whole year,1,64
+kandy,beetroot,2016,whole year,2,63
+kandy,beetroot,2017,whole year,1,61
+kandy,beetroot,2018,whole year,1.5,60
+kandy,beetroot,2019,whole year,2,59
+kandy,beetroot,2020,whole year,2.5,64
+kandy,beetroot,2021,whole year,4,67
+matale,beetroot,2013,whole year,1.5,59
+matale,beetroot,2013,whole year,1,56
+matale,beetroot,2014,whole year,2.5,58
+nuwaraEliya,beetroot,2013,whole year,7,85
+nuwaraEliya,beetroot,2013,whole year,5,84
+nuwaraEliya,beetroot,2014,whole year,5.5,87
+nuwaraEliya,beetroot,2014,whole year,6,86
+nuwaraEliya,beetroot,2015,whole year,4,85
+nuwaraEliya,beetroot,2015,whole year,2.5,90
+nuwaraEliya,beetroot,2016,whole year,2.5,78
+nuwaraEliya,beetroot,2016,whole year,1.5,84
+nuwaraEliya,beetroot,2017,whole year,4,85
+nuwaraEliya,beetroot,2017,whole year,3.5,65
+nuwaraEliya,beetroot,2018,whole year,2.1,74
+nuwaraEliya,beetroot,2018,whole year,5,81
+nuwaraEliya,beetroot,2019,whole year,5.5,82
+nuwaraEliya,beetroot,2019,whole year,6,87
+nuwaraEliya,beetroot,2020,whole year,6.5,90
+nuwaraEliya,beetroot,2020,whole year,4.5,84
+nuwaraEliya,beetroot,2021,whole year,5,85
+galle,beetroot,2022,whole year,0,0
+galle,beetroot,2022,whole year,0,0
+matara,beetroot,2013,whole year,0,0
+matara,beetroot,2013,whole year,0,0
+hambantota,beetroot,2022,whole year,0,0
+hambantota,beetroot,2022,whole year,0,0
+jaffna,beetroot,2013,whole year,0,0
+jaffna,beetroot,2013,whole year,0,0
+kilinochchi,beetroot,2013,whole year,0,0
+kilinochchi,beetroot,2013,whole year,0,0
+mannar,beetroot,2013,whole year,0,0
+mannar,beetroot,2013,whole year,0,0
+mullaitivu,beetroot,2013,whole year,0,0
+mullaitivu,beetroot,2013,whole year,0,0
+vavuniya,beetroot,2013,whole year,0,0
+vavuniya,beetroot,2013,whole year,0,0
+kurunegala,beetroot,2013,whole year,0,0
+kurunegala,beetroot,2013,whole year,0,0
+puttalam,beetroot,2022,whole year,0,0
+puttalam,beetroot,2022,whole year,0,0
+anuradhapura,beetroot,2013,whole year,0,0
+anuradhapura,beetroot,2013,whole year,0,0
+anuradhapura,beetroot,2014,whole year,0,0
+badulla,beetroot,2013,whole year,7,85
+badulla,beetroot,2013,whole year,5,84
+badulla,beetroot,2014,whole year,5.5,87
+badulla,beetroot,2014,whole year,6,86
+badulla,beetroot,2015,whole year,4,85
+badulla,beetroot,2015,whole year,2.5,90
+badulla,beetroot,2016,whole year,2.5,78
+badulla,beetroot,2016,whole year,1.5,84
+badulla,beetroot,2017,whole year,4,85
+badulla,beetroot,2017,whole year,3.5,65
+badulla,beetroot,2018,whole year,2.1,74
+badulla,beetroot,2018,whole year,5,81
+badulla,beetroot,2019,whole year,5.5,82
+badulla,beetroot,2019,whole year,6,87
+badulla,beetroot,2020,whole year,6.5,90
+badulla,beetroot,2020,whole year,4.5,84
+badulla,beetroot,2021,whole year,5,85
+badulla,beetroot,2021,whole year,7,85
+badulla,beetroot,2022,whole year,5,84
+badulla,beetroot,2022,whole year,5.5,87
+ratnapura,beetroot,2021,whole year,0,0
+ratnapura,beetroot,2022,whole year,0,0
+ratnapura,beetroot,2022,whole year,0,0
+Colombo,orange,2013,whole year,0.5,35
+Colombo,orange,2014,whole year,0.5,32
+Colombo,orange,2015,whole year,0.5,31
+Colombo,orange,2015,whole year,1,30
+Colombo,orange,2015,whole year,1,32
+gampaha,orange,2013,whole year,0.5,35
+gampaha,orange,2013,whole year,0.5,32
+gampaha,orange,2014,whole year,0.5,31
+gampaha,orange,2014,whole year,1,30
+gampaha,orange,2015,whole year,1,32
+kalutara,orange,2013,whole year,0.5,35
+kalutara,orange,2013,whole year,0.5,32
+kalutara,orange,2014,whole year,0.5,31
+kalutara,orange,2014,whole year,1,30
+kalutara,orange,2015,whole year,1,32
+kalutara,orange,2015,whole year,0.5,35
+kalutara,orange,2020,whole year,0.5,32
+kandy,orange,2013,whole year,0.5,45
+kandy,orange,2013,whole year,5,51
+kandy,orange,2014,whole year,4.5,60
+kandy,orange,2014,whole year,3.5,62
+kandy,orange,2015,whole year,5,74
+kandy,orange,2015,whole year,2.5,72
+kandy,orange,2016,whole year,2.5,65
+kandy,orange,2016,whole year,5,75
+kandy,orange,2017,whole year,1,80
+galle,orange,2015,whole year,0.5,32
+galle,orange,2015,whole year,0.5,31
+galle,orange,2016,whole year,1,30
+galle,orange,2016,whole year,1,32
+galle,orange,2017,whole year,0.5,35
+galle,orange,2017,whole year,0.5,32
+matara,orange,2013,whole year,0.5,45
+matara,orange,2014,whole year,5,31
+matara,orange,2014,whole year,0.5,30
+matara,orange,2015,whole year,1,25
+matara,orange,2015,whole year,0.5,45
+hambantota,orange,2018,whole year,5,51
+hambantota,orange,2018,whole year,4.5,60
+hambantota,orange,2019,whole year,3.5,62
+hambantota,orange,2019,whole year,5,74
+hambantota,orange,2020,whole year,2.5,72
+hambantota,orange,2020,whole year,2.5,65
+hambantota,orange,2021,whole year,5,75
+hambantota,orange,2021,whole year,1,80
+hambantota,orange,2022,whole year,0.5,32
+hambantota,orange,2022,whole year,0.5,45
+jaffna,orange,2013,whole year,5,31
+jaffna,orange,2013,whole year,0.5,30
+jaffna,orange,2014,whole year,1,25
+jaffna,orange,2014,whole year,0.5,45
+anuradhapura,orange,2013,whole year,7,85
+anuradhapura,orange,2014,whole year,5,84
+anuradhapura,orange,2015,whole year,5.5,87
+anuradhapura,orange,2016,whole year,6,86
+anuradhapura,orange,2017,whole year,4,85
+anuradhapura,orange,2018,whole year,2.5,90
+anuradhapura,orange,2019,whole year,2.5,78
+anuradhapura,orange,2020,whole year,1.5,84
+anuradhapura,orange,2021,whole year,4,85
+anuradhapura,orange,2022,whole year,3.5,65
+anuradhapura,orange,2018,whole year,2.1,74
+anuradhapura,orange,2018,whole year,5,81
+Monaragala,orange,2020,whole year,5.5,82
+Monaragala,orange,2021,whole year,6,87
+Monaragala,orange,2021,whole year,6.5,90
+Monaragala,orange,2022,whole year,4.5,84
+Monaragala,orange,2022,whole year,5,85
+Colombo,papaya,2013,whole year,7,85
+Colombo,papaya,2013,whole year,5,84
+hambantota,papaya,2013,whole year,5.5,87
+hambantota,papaya,2014,whole year,4,85
+hambantota,papaya,2015,whole year,2.5,90
+hambantota,papaya,2016,whole year,2.5,78
+hambantota,papaya,2017,whole year,1.5,84
+hambantota,papaya,2018,whole year,4,85
+hambantota,papaya,2019,whole year,3.5,65
+hambantota,papaya,2020,whole year,2.1,74
+hambantota,papaya,2021,whole year,5,81
+hambantota,papaya,2022,whole year,5.5,82
+Monaragala,papaya,2013,whole year,6,87
+Monaragala,papaya,2014,whole year,6.5,90
+Monaragala,papaya,2015,whole year,4.5,84
+Monaragala,papaya,2016,whole year,5,85
+Monaragala,papaya,2017,whole year,7,85
+Monaragala,papaya,2018,whole year,5,84
+Monaragala,papaya,2019,whole year,5.5,87
+Monaragala,papaya,2020,whole year,5,83
+Monaragala,papaya,2021,whole year,5.5,84
+Monaragala,papaya,2022,whole year,4,79
+anuradhapura,papaya,2013,whole year,3.5,65
+anuradhapura,papaya,2014,whole year,2.1,74
+anuradhapura,papaya,2015,whole year,5,81
+anuradhapura,papaya,2016,whole year,5.5,82
+anuradhapura,papaya,2017,whole year,6,87
+anuradhapura,papaya,2018,whole year,6.5,90
+anuradhapura,papaya,2019,whole year,4.5,84
+anuradhapura,papaya,2020,whole year,5,85
+anuradhapura,papaya,2021,whole year,7,85
+anuradhapura,papaya,2022,whole year,5,84
+anuradhapura,papaya,2013,whole year,5.5,87
+polonnaruwa,papaya,2014,whole year,5,83
+polonnaruwa,papaya,2015,whole year,5.5,84
+polonnaruwa,papaya,2016,whole year,4,79
+polonnaruwa,papaya,2017,whole year,5,85
+polonnaruwa,papaya,2018,whole year,7,85
+polonnaruwa,papaya,2019,whole year,5,84
+polonnaruwa,papaya,2020,whole year,5.5,87
+polonnaruwa,papaya,2021,whole year,5,83
+polonnaruwa,papaya,2022,whole year,5.5,84
+kalutara,papaya,2014,whole year,1,79
+kalutara,papaya,2014,whole year,0.5,25
+kalutara,papaya,2015,whole year,1,21
+kalutara,papaya,2015,whole year,0.5,32
+galle,papaya,2021,whole year,0.5,36
+galle,papaya,2022,whole year,0.5,41
+galle,papaya,2022,whole year,1,32
+matara,papaya,2013,whole year,0.5,28
+Colombo,coconut,2013,whole year,2.5,50
+Colombo,coconut,2013,whole year,2.5,51
+Colombo,coconut,2017,whole year,2,48
+Colombo,coconut,2017,whole year,2.5,45
+gampaha,coconut,2013,whole year,2,35
+gampaha,coconut,2013,whole year,2.5,41
+gampaha,coconut,2014,whole year,1.5,32
+gampaha,coconut,2019,whole year,3,28
+kalutara,coconut,2013,whole year,2.5,50
+kalutara,coconut,2013,whole year,2.5,51
+kalutara,coconut,2014,whole year,2,48
+kalutara,coconut,2014,whole year,2.5,45
+kalutara,coconut,2015,whole year,2,50
+kalutara,coconut,2015,whole year,2.5,52
+kandy,coconut,2020,whole year,0.5,2
+kandy,coconut,2020,whole year,0.5,2.5
+matale,coconut,2018,whole year,0.5,2
+matale,coconut,2018,whole year,0.5,1.5
+matale,coconut,2019,whole year,0,0
+nuwaraEliya,coconut,2013,whole year,0,0
+nuwaraEliya,coconut,2013,whole year,0,0
+galle,coconut,2013,whole year,4,54
+galle,coconut,2013,whole year,5,51
+galle,coconut,2014,whole year,2.5,56
+galle,coconut,2014,whole year,4.5,52
+galle,coconut,2015,whole year,2.5,54
+galle,coconut,2015,whole year,1.5,57
+galle,coconut,2016,whole year,4.5,62
+galle,coconut,2017,whole year,2.5,63
+galle,coconut,2018,whole year,2.5,51
+galle,coconut,2019,whole year,1.5,45
+matara,coconut,2020,whole year,1,44
+matara,coconut,2021,whole year,4.5,42
+matara,coconut,2022,whole year,5.5,62
+hambantota,coconut,2013,whole year,4.5,52
+hambantota,coconut,2014,whole year,2.5,54
+hambantota,coconut,2015,whole year,1.5,57
+hambantota,coconut,2016,whole year,4.5,62
+hambantota,coconut,2017,whole year,2.5,63
+hambantota,coconut,2018,whole year,2.5,51
+hambantota,coconut,2019,whole year,1.5,45
+hambantota,coconut,2020,whole year,1,44
+hambantota,coconut,2021,whole year,4.5,42
+hambantota,coconut,2022,whole year,5.5,62
+jaffna,coconut,2013,whole year,2.5,52
+jaffna,coconut,2013,whole year,2.5,51
+jaffna,coconut,2014,whole year,1.5,54
+jaffna,coconut,2014,whole year,4,45
+jaffna,coconut,2015,whole year,2.5,62
+jaffna,coconut,2015,whole year,1,49
+kilinochchi,coconut,2013,whole year,1,42
+kilinochchi,coconut,2013,whole year,0.5,39
+kilinochchi,coconut,2014,whole year,0.5,34
+kilinochchi,coconut,2014,whole year,1,62
+kilinochchi,coconut,2015,whole year,1.5,52
+mannar,coconut,2020,whole year,2.5,51
+mannar,coconut,2021,whole year,2.5,54
+mannar,coconut,2021,whole year,3,45
+mannar,coconut,2022,whole year,3.5,62
+mannar,coconut,2022,whole year,2.5,49
+vavuniya,coconut,2020,whole year,1,42
+vavuniya,coconut,2021,whole year,1,39
+vavuniya,coconut,2021,whole year,0.5,34
+vavuniya,coconut,2022,whole year,0.5,62
+vavuniya,coconut,2022,whole year,1,52
+trincomalee,coconut,2013,whole year,1.5,51
+trincomalee,coconut,2013,whole year,2.5,54
+trincomalee,coconut,2014,whole year,2.5,45
+trincomalee,coconut,2014,whole year,3,62
+trincomalee,coconut,2015,whole year,3.5,49
+trincomalee,coconut,2015,whole year,1.5,42
+trincomalee,coconut,2016,whole year,2.5,39
+ampara,coconut,2020,whole year,2.5,34
+ampara,coconut,2021,whole year,3,3.5
+ampara,coconut,2021,whole year,3.5,54
+ampara,coconut,2022,whole year,2.5,45
+ampara,coconut,2022,whole year,1.5,62
+kurunegala,coconut,2013,whole year,10,75
+kurunegala,coconut,2014,whole year,12,78
+kurunegala,coconut,2015,whole year,10.5,79
+kurunegala,coconut,2016,whole year,8,80
+kurunegala,coconut,2017,whole year,7.5,81
+kurunegala,coconut,2018,whole year,12,85
+kurunegala,coconut,2019,whole year,10,90
+kurunegala,coconut,2020,whole year,8,89
+kurunegala,coconut,2021,whole year,7.5,78
+kurunegala,coconut,2022,whole year,6,82
+kurunegala,coconut,2018,whole year,7.5,85
+puttalam,coconut,2013,whole year,4,45
+puttalam,coconut,2014,whole year,2.5,62
+puttalam,coconut,2014,whole year,1,49
+puttalam,coconut,2015,whole year,1,42
+puttalam,coconut,2015,whole year,0.5,39
+puttalam,coconut,2016,whole year,0.5,34
+puttalam,coconut,2016,whole year,1,62
+puttalam,coconut,2017,whole year,1.5,52
+puttalam,coconut,2017,whole year,2.5,51
+puttalam,coconut,2018,whole year,2.5,54
+puttalam,coconut,2018,whole year,3,45
+puttalam,coconut,2019,whole year,3.5,62
+puttalam,coconut,2019,whole year,2.5,49
+puttalam,coconut,2020,whole year,1,42
+puttalam,coconut,2020,whole year,1,39
+puttalam,coconut,2021,whole year,0.5,34
+puttalam,coconut,2021,whole year,2.5,49
+puttalam,coconut,2022,whole year,1,42
+puttalam,coconut,2022,whole year,1,39
+anuradhapura,coconut,2013,whole year,0.5,34
+anuradhapura,coconut,2013,whole year,2.5,49
+anuradhapura,coconut,2014,whole year,1,42
+anuradhapura,coconut,2014,whole year,1,39
+anuradhapura,coconut,2015,whole year,0.5,34
+anuradhapura,coconut,2015,whole year,2.5,49
+anuradhapura,coconut,2016,whole year,1,42
+anuradhapura,coconut,2016,whole year,1,39
+anuradhapura,coconut,2017,whole year,0.5,34
+Colombo,brinjal,2013,whole year,3.5,62
+Colombo,brinjal,2014,whole year,2.5,49
+Colombo,brinjal,2015,whole year,1,42
+Colombo,brinjal,2016,whole year,1,39
+Colombo,brinjal,2017,whole year,0.5,34
+Colombo,brinjal,2018,whole year,2.5,49
+Colombo,brinjal,2019,whole year,1,42
+Colombo,brinjal,2020,whole year,1,39
+Colombo,brinjal,2021,whole year,0.5,34
+Colombo,brinjal,2022,whole year,2.5,49
+galle,brinjal,2013,whole year,1,42
+galle,brinjal,2013,whole year,1,39
+galle,brinjal,2014,whole year,0.5,34
+galle,brinjal,2014,whole year,2.5,49
+galle,brinjal,2015,whole year,1,42
+galle,brinjal,2015,whole year,1,39
+galle,brinjal,2016,whole year,0.5,34
+galle,brinjal,2016,whole year,1,39
+hambantota,brinjal,2013,whole year,0.5,34
+hambantota,brinjal,2014,whole year,8,80
+hambantota,brinjal,2015,whole year,7.5,81
+hambantota,brinjal,2016,whole year,5,85
+hambantota,brinjal,2017,whole year,4,90
+hambantota,brinjal,2018,whole year,4,89
+hambantota,brinjal,2019,whole year,2.5,78
+hambantota,brinjal,2020,whole year,1.5,82
+hambantota,brinjal,2021,whole year,4,90
+hambantota,brinjal,2022,whole year,4,89
+hambantota,brinjal,2021,whole year,2.5,78
+jaffna,brinjal,2013,whole year,1.5,82
+jaffna,brinjal,2013,whole year,2.5,78
+jaffna,brinjal,2014,whole year,1.5,82
+jaffna,brinjal,2014,whole year,4,90
+kurunegala,brinjal,2022,whole year,4,89
+kurunegala,brinjal,2022,whole year,2.5,78
+Monaragala,brinjal,2013,whole year,1.5,82
+Monaragala,brinjal,2013,whole year,2.5,78
+Monaragala,brinjal,2014,whole year,1.5,82
+Monaragala,brinjal,2014,whole year,2.5,78
+Monaragala,brinjal,2015,whole year,1.5,82
+Monaragala,brinjal,2015,whole year,4,90
+Monaragala,brinjal,2016,whole year,4,89
+Monaragala,brinjal,2016,whole year,2.5,78
+Monaragala,brinjal,2017,whole year,1.5,82
+Monaragala,brinjal,2017,whole year,2.5,78
+Monaragala,brinjal,2018,whole year,1.5,82
+Monaragala,brinjal,2018,whole year,2.5,78
+Monaragala,brinjal,2019,whole year,1.5,82
+Monaragala,brinjal,2019,whole year,4,90
+Monaragala,brinjal,2020,whole year,4,89
+ratnapura,brinjal,2020,whole year,2.5,78
+ratnapura,brinjal,2021,whole year,1.5,82
+ratnapura,brinjal,2021,whole year,4,90
+ratnapura,brinjal,2022,whole year,4,89
+ratnapura,brinjal,2022,whole year,5,78
+anuradhapura,brinjal,2013,whole year,8,80
+anuradhapura,brinjal,2013,whole year,7.5,81
+anuradhapura,brinjal,2014,whole year,5,85
+anuradhapura,brinjal,2014,whole year,4,90
+anuradhapura,brinjal,2015,whole year,4,89
+anuradhapura,brinjal,2015,whole year,2.5,78
+anuradhapura,brinjal,2016,whole year,1.5,82
+anuradhapura,brinjal,2016,whole year,4,90
+anuradhapura,brinjal,2017,whole year,4,89
+anuradhapura,brinjal,2017,whole year,2.5,78
+anuradhapura,brinjal,2018,whole year,1.5,82
+anuradhapura,brinjal,2018,whole year,2.5,78
+anuradhapura,brinjal,2019,whole year,1.5,82
+anuradhapura,brinjal,2019,whole year,4,90
+anuradhapura,brinjal,2020,whole year,4,89
+anuradhapura,brinjal,2020,whole year,4,89
+anuradhapura,brinjal,2021,whole year,5,78
+anuradhapura,brinjal,2021,whole year,8,80
+anuradhapura,brinjal,2022,whole year,7.5,81
+anuradhapura,brinjal,2022,whole year,5,85
+polonnaruwa,brinjal,2013,whole year,4,90
+polonnaruwa,brinjal,2013,whole year,4,89
+polonnaruwa,brinjal,2014,whole year,2.5,78
+polonnaruwa,brinjal,2014,whole year,1.5,82
+polonnaruwa,brinjal,2015,whole year,4,90
+polonnaruwa,brinjal,2015,whole year,4,89
+polonnaruwa,brinjal,2016,whole year,2.5,78
+polonnaruwa,brinjal,2016,whole year,1.5,82
+polonnaruwa,brinjal,2017,whole year,2.5,78
+polonnaruwa,brinjal,2017,whole year,1.5,82
+polonnaruwa,brinjal,2018,whole year,4,90
+Colombo,yard long bean,2014,whole year,2.5,49
+Colombo,yard long bean,2015,whole year,1,42
+Colombo,yard long bean,2016,whole year,1,39
+Colombo,yard long bean,2017,whole year,0.5,34
+Colombo,yard long bean,2018,whole year,2.5,49
+Colombo,yard long bean,2019,whole year,1,42
+Colombo,yard long bean,2020,whole year,1,39
+Colombo,yard long bean,2021,whole year,0.5,34
+Colombo,yard long bean,2022,whole year,2.5,49
+galle,yard long bean,2013,whole year,1,42
+galle,yard long bean,2013,whole year,1,39
+galle,yard long bean,2014,whole year,0.5,34
+galle,yard long bean,2014,whole year,2.5,49
+galle,yard long bean,2015,whole year,1,42
+galle,yard long bean,2015,whole year,1,39
+galle,yard long bean,2016,whole year,0.5,34
+galle,yard long bean,2016,whole year,1,39
+hambantota,yard long bean,2013,whole year,0.5,34
+hambantota,yard long bean,2014,whole year,8,80
+hambantota,yard long bean,2015,whole year,7.5,81
+hambantota,yard long bean,2016,whole year,5,85
+hambantota,yard long bean,2017,whole year,4,90
+hambantota,yard long bean,2018,whole year,4,89
+hambantota,yard long bean,2019,whole year,2.5,78
+hambantota,yard long bean,2020,whole year,1.5,82
+hambantota,yard long bean,2021,whole year,4,90
+hambantota,yard long bean,2022,whole year,4,89
+hambantota,yard long bean,2021,whole year,2.5,78
+jaffna,yard long bean,2013,whole year,1.5,82
+jaffna,yard long bean,2013,whole year,2.5,78
+jaffna,yard long bean,2014,whole year,1.5,82
+jaffna,yard long bean,2014,whole year,4,90
+kurunegala,yard long bean,2022,whole year,4,89
+kurunegala,yard long bean,2022,whole year,2.5,78
+Monaragala,yard long bean,2013,whole year,1.5,82
+Monaragala,yard long bean,2013,whole year,2.5,78
+Monaragala,yard long bean,2014,whole year,1.5,82
+Monaragala,yard long bean,2014,whole year,2.5,78
+Monaragala,yard long bean,2015,whole year,1.5,82
+Monaragala,yard long bean,2015,whole year,4,90
+Monaragala,yard long bean,2016,whole year,4,89
+Monaragala,yard long bean,2016,whole year,2.5,78
+Monaragala,yard long bean,2017,whole year,1.5,82
+Monaragala,yard long bean,2017,whole year,2.5,78
+Monaragala,yard long bean,2018,whole year,1.5,82
+Monaragala,yard long bean,2018,whole year,2.5,78
+Monaragala,yard long bean,2019,whole year,1.5,82
+Monaragala,yard long bean,2019,whole year,4,90
+Monaragala,yard long bean,2020,whole year,4,89
+ratnapura,yard long bean,2020,whole year,2.5,78
+ratnapura,yard long bean,2021,whole year,1.5,82
+ratnapura,yard long bean,2021,whole year,4,90
+ratnapura,yard long bean,2022,whole year,4,89
+ratnapura,yard long bean,2022,whole year,5,78
+anuradhapura,yard long bean,2013,whole year,8,80
+anuradhapura,yard long bean,2013,whole year,7.5,81
+anuradhapura,yard long bean,2014,whole year,5,85
+anuradhapura,yard long bean,2014,whole year,4,90
+anuradhapura,yard long bean,2015,whole year,4,89
+anuradhapura,yard long bean,2015,whole year,2.5,78
+anuradhapura,yard long bean,2016,whole year,1.5,82
+anuradhapura,yard long bean,2016,whole year,4,90
+anuradhapura,yard long bean,2017,whole year,4,89
+anuradhapura,yard long bean,2017,whole year,2.5,78
+anuradhapura,yard long bean,2018,whole year,1.5,82
+anuradhapura,yard long bean,2018,whole year,2.5,78
+anuradhapura,yard long bean,2019,whole year,1.5,82
+anuradhapura,yard long bean,2019,whole year,4,90
+anuradhapura,yard long bean,2020,whole year,4,89
+anuradhapura,yard long bean,2020,whole year,4,89
+anuradhapura,yard long bean,2021,whole year,5,78
+anuradhapura,yard long bean,2021,whole year,8,80
+anuradhapura,yard long bean,2022,whole year,7.5,81
+anuradhapura,yard long bean,2022,whole year,5,85
+polonnaruwa,yard long bean,2013,whole year,4,90
+polonnaruwa,yard long bean,2013,whole year,4,89
+polonnaruwa,yard long bean,2014,whole year,2.5,78
+polonnaruwa,yard long bean,2014,whole year,1.5,82
+polonnaruwa,yard long bean,2015,whole year,4,90
+polonnaruwa,yard long bean,2015,whole year,4,89
+polonnaruwa,yard long bean,2016,whole year,2.5,78
+polonnaruwa,yard long bean,2016,whole year,1.5,82
+polonnaruwa,yard long bean,2017,whole year,2.5,78
+polonnaruwa,yard long bean,2017,whole year,1.5,82
+polonnaruwa,yard long bean,2018,whole year,4,90
+Colombo,coffee,2013,whole year,1,10
+Colombo,coffee,2013,whole year,1,8.5
+Colombo,coffee,2014,whole year,1.2,15
+gampaha,coffee,2021,whole year,0.5,2
+gampaha,coffee,2021,whole year,0.5,2.5
+gampaha,coffee,2022,whole year,0.25,5
+gampaha,coffee,2022,whole year,0.25,4.5
+kandy,coffee,2013,whole year,5,78
+kandy,coffee,2013,whole year,5.5,81
+kandy,coffee,2014,whole year,6,85
+kandy,coffee,2014,whole year,7.5,86
+kandy,coffee,2015,whole year,6,90
+kandy,coffee,2015,whole year,4.5,91
+kandy,coffee,2016,whole year,7,89
+kandy,coffee,2016,whole year,8,90
+kandy,coffee,2017,whole year,6,92
+kandy,coffee,2017,whole year,10,96
+kandy,coffee,2018,whole year,8,87
+kandy,coffee,2018,whole year,5.5,84
+kandy,coffee,2019,whole year,4.5,85
+kandy,coffee,2019,whole year,6,81
+kandy,coffee,2020,whole year,5,82
+kandy,coffee,2020,whole year,4.5,83
+kandy,coffee,2021,whole year,3,84
+kandy,coffee,2021,whole year,3.5,86
+kandy,coffee,2022,whole year,3,88
+kandy,coffee,2022,whole year,2.5,89
+matale,coffee,2013,whole year,2,87
+matale,coffee,2013,whole year,1.5,90
+matale,coffee,2014,whole year,4.5,96
+matale,coffee,2014,whole year,5,94
+matale,coffee,2015,whole year,5.5,91
+matale,coffee,2015,whole year,4,97
+matale,coffee,2016,whole year,3.5,95
+matale,coffee,2016,whole year,2,88
+matale,coffee,2017,whole year,2.5,84
+matale,coffee,2017,whole year,4,85
+matale,coffee,2018,whole year,4.5,86
+matale,coffee,2018,whole year,5,81
+matale,coffee,2019,whole year,6,82
+matale,coffee,2019,whole year,3.5,83
+matale,coffee,2020,whole year,2.5,87
+matale,coffee,2020,whole year,4,80
+matale,coffee,2021,whole year,1.5,78
+matale,coffee,2021,whole year,2.5,79
+matale,coffee,2022,whole year,6,84
+matale,coffee,2022,whole year,3,86
+galle,coffee,2019,whole year,1.5,89
+galle,coffee,2020,whole year,1,81
+galle,coffee,2020,whole year,1.5,82
+galle,coffee,2021,whole year,2,65
+galle,coffee,2021,whole year,1.25,57
+galle,coffee,2022,whole year,1,54
+galle,coffee,2022,whole year,0.5,52
+matara,coffee,2013,whole year,1.2,48
+matara,coffee,2013,whole year,1,44
+matara,coffee,2014,whole year,1.5,35
+matara,coffee,2014,whole year,0.5,36
+matara,coffee,2015,whole year,2,51
+matara,coffee,2015,whole year,1,47
+matara,coffee,2016,whole year,1.5,44
+kegalle,coffee,2015,whole year,5,79
+kegalle,coffee,2016,whole year,5.5,78.5
+kegalle,coffee,2016,whole year,4.5,74
+kegalle,coffee,2017,whole year,2.5,84
+kegalle,coffee,2017,whole year,2.5,85
+kegalle,coffee,2018,whole year,6,81.2
+kegalle,coffee,2018,whole year,5,86
+kegalle,coffee,2019,whole year,4.5,87.5
+kegalle,coffee,2019,whole year,5.5,84
+kegalle,coffee,2020,whole year,3.5,86
+kegalle,coffee,2020,whole year,6,89
+kegalle,coffee,2021,whole year,4.5,82
+kegalle,coffee,2021,whole year,6,83
+kegalle,coffee,2022,whole year,7,89
+kegalle,coffee,2022,whole year,7,90
+kurunegala,coffee,2013,whole year,5,75
+kurunegala,coffee,2013,whole year,5.5,76.5
+kurunegala,coffee,2014,whole year,4.5,84
+kurunegala,coffee,2014,whole year,4,82
+kurunegala,coffee,2015,whole year,3.5,89
+kurunegala,coffee,2015,whole year,2.5,90
+kurunegala,coffee,2016,whole year,2.5,89
+kurunegala,coffee,2016,whole year,1.5,74
+kurunegala,coffee,2017,whole year,7,63.5
+kurunegala,coffee,2017,whole year,6.5,78
+kurunegala,coffee,2018,whole year,2.5,81
+kurunegala,coffee,2018,whole year,4.5,82
+kurunegala,coffee,2019,whole year,3.5,86
+kurunegala,coffee,2019,whole year,2.5,84.5
+kurunegala,coffee,2020,whole year,5,83.1
+kurunegala,coffee,2020,whole year,4.5,79.2
+kurunegala,coffee,2021,whole year,2.6,82.6
+badulla,coffee,2013,whole year,5,78.5
+badulla,coffee,2013,whole year,4.5,74
+badulla,coffee,2014,whole year,5.5,75.6
+badulla,coffee,2014,whole year,6.5,79
+badulla,coffee,2015,whole year,2.5,84.5
+badulla,coffee,2015,whole year,2.5,89.5
+badulla,coffee,2016,whole year,1.5,78.5
+badulla,coffee,2016,whole year,4,74.1
+badulla,coffee,2017,whole year,2.5,79
+badulla,coffee,2017,whole year,2.6,80
+badulla,coffee,2018,whole year,1.5,86.3
+badulla,coffee,2018,whole year,5,75
+badulla,coffee,2019,whole year,4.2,76.5
+ratnapura,coffee,2013,whole year,5,80
+ratnapura,coffee,2013,whole year,5.5,81
+ratnapura,coffee,2014,whole year,4.5,82.5
+ratnapura,coffee,2014,whole year,4.2,84
+ratnapura,coffee,2015,whole year,4.6,85
+ratnapura,coffee,2015,whole year,5.2,86
+ratnapura,coffee,2016,whole year,1.2,87.5
+ratnapura,coffee,2016,whole year,2.5,89
+ratnapura,coffee,2017,whole year,4.5,90
+ratnapura,coffee,2017,whole year,5,91
